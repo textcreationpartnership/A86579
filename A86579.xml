@@ -1,0 +1,867 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sinne's discovery and revenge. As it was delivered in a sermom [sic] to the Right Honorable House of Peers in the Abbey Church at Westminster, on Wednsday [sic], December 30. 1646. Being the day of the monethly publick fast. / By Thomas Horton B. D. Reader of Divinity in Gresham Colledge, and Pastor of Colechurch in London. Published by the order of the said House.</title>
+            <author>Horton, Thomas, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86579</idno>
+            <idno type="STC">Wing H2882</idno>
+            <idno type="STC">Thomason E369_4</idno>
+            <idno type="STC">ESTC R17539</idno>
+            <idno type="EEBO-CITATION">99860212</idno>
+            <idno type="PROQUEST">99860212</idno>
+            <idno type="VID">112328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112328)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E369[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sinne's discovery and revenge. As it was delivered in a sermom [sic] to the Right Honorable House of Peers in the Abbey Church at Westminster, on Wednsday [sic], December 30. 1646. Being the day of the monethly publick fast. / By Thomas Horton B. D. Reader of Divinity in Gresham Colledge, and Pastor of Colechurch in London. Published by the order of the said House.</title>
+                  <author>Horton, Thomas, d. 1673.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F: Neile for Samuel Gellibrand, and are to be sold at his shop at the Brasen Serpent in Pauls Church-yard.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The names of the preachers before the Parliament, anno 1646": p. 40.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Numbers XXXII, 23 --  Sermons.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:112328:1"/>
+            <head>ERRATA.</head>
+            <p>PAge 26 <hi>line</hi> 1 for, in proving <hi>read</hi> improving. <hi>p.</hi> 26 <abbr>
+                  <hi>l.</hi>
+               </abbr> 15 for, More may follow the light, <hi>r.</hi> More light is communicated, &amp;c. <hi>p.</hi> 26. <abbr>
+                  <hi>l.</hi>
+               </abbr> 17. for <hi>merits</hi> r. <hi>receits. p.</hi> 27. <abbr>
+                  <hi>l.</hi>
+               </abbr> 14. for, receive <hi>r.</hi> leave.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:112328:1" rendition="simple:additions"/>
+            <p>Sinnes Diſcovery AND REVENGE.</p>
+            <p>As it was Delivered in a SERMOM to the Right Honorable Houſe of PEERS in the Abbey Church at <hi>Weſtminſter,</hi> on <hi>Wednſday, De<g ref="char:EOLhyphen"/>cember</hi> 30. 1646. being the Day of the Monethly Publick <hi>Faſt.</hi>
+            </p>
+            <p>BY THOMAS HORTON <hi>B. D.</hi> Reader of Divinity in <hi>Greſham</hi> Colledge, and Paſtor of <hi>Colechurch</hi> in LONDON.</p>
+            <p>
+               <hi>Publiſhed by the Order of the ſaid Houſe.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Gen. IV. VII.</hi>
+               </bibl>
+               <p>If thou doeſt not well, ſin lyeth at the doore.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>I Tim. V. XXIIII. XXV.</hi>
+               </bibl>
+               <p>Some mens ſins are open before hand, going before to judgement; and ſome men they follow after; likewiſe alſo the good works of ſome are ma<g ref="char:EOLhyphen"/>nifeſt before hand, and they that are otherwiſe cannot be hid.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by F: <hi>Neile</hi> for <hi>Samuel Gellibrand,</hi> and are to be ſold at his Shop at the Braſen Serpent in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard. 1646.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:112328:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis</hi> 31 <hi>Decemb.</hi> 1646.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords in <hi>Parliament</hi> Aſſembled, That this Houſe gives Thanks to Mr. <hi>Horton,</hi> for his great pains ta<g ref="char:EOLhyphen"/>ken in his Sermon Preached the laſt Faſt before the Lords of <hi>Parliament</hi> in the Abbey Church <hi>Weſtminſter.</hi> And he is hereby deſired to Print, and publiſh the ſame, which is to be Printed onely by Authority under his own Hand.</p>
+            <closer>
+               <signed>Jo: Brown Cleric: Parliamen.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>I Do appoint <hi>Samuel Gellibrand</hi> to Print my Sermon.</p>
+            <closer>
+               <signed>Tho: Horton.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112328:2"/>
+            <head>TO THE RIGHT HONORABLE HOUSE of PEERS At This Time Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Your Lordſhips were pleaſed to ſummon me to this Work of Preaching to You, I muſt confeſſe I had at the firſt ſome reluctancies in me as being privy to mine own unwor<g ref="char:EOLhyphen"/>thines, and inſufficiency to ſo Great a Task; But when I had recollected my ſelf, and conſider'd that in Your ſummons there was in a ſort the Call of God, I now began to be very much ſatiſ<g ref="char:EOLhyphen"/>fied, yea to draw incouragement from that which before was a diſ-heart<g ref="char:EOLhyphen"/>ning to me. Obſerving this very well, that it is the uſuall manner of God in ſuch buſineſſes as theſe are, not onely to work by weak, and worthleſſe Inſtruments, but alſo ſometimes by them (to chooſe) rather then others, <note place="margin">2 Cor. 4.7.</note> 
+               <hi>that the Excellency of the power might be of Him, and not of us.</hi> It is no matter what be the <hi>Tongue</hi> in the motion of ſo Admirable a Guide as his own <hi>Spirit;</hi> nor it is no matter what be the <hi>Pen</hi> in the Hand of ſo excellent a Scribe as <hi>Himſelf</hi> is. Surely the Providence of God in thoſe Imployments whereunto Himſelf cals us, does make a very Great Difference in thoſe Perſons, which are <hi>otherwiſe</hi> the ſame, either by rayſing the Actuall performance above the Habituall Qualification, in regard of <hi>Aſſiſtance,</hi> or by bleſſing the preſent performance with an efficacy beyond it ſelf in regard of <hi>ſucceſſe.</hi>
+            </p>
+            <p>In theſe Thoughts, and Hopes (Right Honourable) have I under taken this Double Service in Obedience to Your Honours Commands; in the <hi>Pulpit</hi> firſt, and now in the <hi>Preſſe.</hi> The <hi>latter</hi> of which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpecially, I ſhould never have ventur'd upon <note n="*" place="margin">Mihiquidem ad ſcrib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndum animus non tam eſt cupi<g ref="char:EOLhyphen"/>dus quam nec idoneus; Sci<g ref="char:EOLhyphen"/>enti noneſſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> periculo multorum Ju<g ref="char:EOLhyphen"/>diciis ingeni<g ref="char:EOLhyphen"/>um tenue &amp; exile commit<g ref="char:EOLhyphen"/>tere. <hi>Ruſſinus in Expoſu ſym<g ref="char:EOLhyphen"/>bol, ſub Nom. cypr.</hi>
+               </note>, if as I was <hi>warranted</hi> thereunto by
+<pb facs="tcp:112328:3"/>the <hi>fulneſſe</hi> of Your Lordſhips <hi>Authority,</hi> 
+               <note place="margin">Hoc ad crimi<g ref="char:EOLhyphen"/>na noſtra ad<g ref="char:EOLhyphen"/>dimus, ut c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m in ommbus rei ſimus, <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>m bonos nos, &amp; ſanctos eſſe credamus: ac sic in nobis cumulentur iniquitatis of<g ref="char:EOLhyphen"/>fenſae praeſum<g ref="char:EOLhyphen"/>ptione juſtitiae Salv.de Gube. Dei. lib 3. Rev. 12.12, 2 Cor. 2.11. De verb. Apli. Ser 26.</note> ſo I had not been <hi>animated</hi> thereunto by the <hi>Freeneſſe</hi> of Your Lordſhips <hi>Invitation.</hi>
+            </p>
+            <p>I here humbly preſent both to Your Honours, and to the World an Ar<g ref="char:EOLhyphen"/>gument, which I conceive moſt ſutable to theſe Times, which are now up<g ref="char:EOLhyphen"/>on us; Being at once both Dayes of <hi>ſin,</hi> and Dayes of <hi>ſecurity;</hi> wherein (as <hi>Salvian</hi> of old complain'd of thoſe Times which Himſelf lived in,) we do <hi>aggravate our Iniquity by the conceit of our Innocency; and are ſo much the worſe, as we think our ſelves the Better.</hi>
+            </p>
+            <p>Indeed I know very well, that the Devill is there moſt buſie, where he thinks <hi>he has the ſhorteſt time;</hi> And Times of <hi>Reformation</hi> are for the moſt part Times of <hi>Temptation,</hi> but therefore we ſhould not <hi>be ignorant of Satans devices,</hi> but there increaſe our <hi>Jealouſies,</hi> where he ſtudies to increaſe our <hi>Dangers.</hi>
+            </p>
+            <p>There are two things which (as <hi>Auſtin</hi> well obſerves) do make the Dayes to be Evill. <hi>MALITIA &amp; MISERIA. Sin,</hi> and the <hi>Puniſh<g ref="char:EOLhyphen"/>ment</hi> of ſin. <note place="margin">* <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Thu<g ref="char:EOLhyphen"/>cyd. Hiſtor.l.</hi> 1. <hi>ſub finem.</hi>
+               </note> We have our ſhare in <hi>Both</hi> at this preſent Time; And the latter as conſequent to the Former. We might ſave God a Great deal of labour, and our ſelves a Great deal of ſorrow, if we had but leſſe ſin amongſt us; Which (as <hi>Pericles</hi> ſaid once to the Athenians) <hi>is to be feared does us more hurt, then all the plots of our Enemies be<g ref="char:EOLhyphen"/>ſides'</hi> The work of this inſuing Sermon is in ſome ſmall and weak mea<g ref="char:EOLhyphen"/>ſure to lay open <hi>this</hi> unto us, and to affect us with it. All that I now take care for, is to have the Bleſſing of God upon it, to make it ſucceſſefull whtch (beſides the daily remembrance of Your Lordſhips unwearied In<g ref="char:EOLhyphen"/>deavours for the Publick Good) is the earneſt and moſt hearty prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours moſt humbly devoted in the ſervice of Chriſt,</hi> Tho: Horton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:112328:3"/>
+            <head>A SERMON Preached to the Right Honourable HOUSE of LORDS, On the Day of the Monethly <hi>Faſt, December</hi> 30. 1646.</head>
+            <epigraph>
+               <q>
+                  <bibl>Numb. <hi>Chap. XXXII. Verſ. XXIII.</hi>
+                  </bibl>
+                  <p>But if ye will not do ſo, behold, ye have ſinned againſt the Lord: and be ſure your ſin will find you out.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His <hi>Day,</hi> it is a ſearching Day; And this <hi>Text,</hi> it is a ſearching Text. The Day calls us to the finding out of our <hi>ſins,</hi> as the proper work of a Faſt, and Humiliation of our ſouls before God. And the Text tels us of our ſins finding out of our <hi>ſelves,</hi> upon ſuppoſition of falling into them; and voluntary continuance in them. It is a Text, which extends it ſelf not onely to the limits of this Auditory, and the Aſſem<g ref="char:EOLhyphen"/>bly now met together in this particular place; but which rea<g ref="char:EOLhyphen"/>ches as well to the whole Kingdom beſides, and to the Conſci<g ref="char:EOLhyphen"/>ence of every man that lives in it. If a man could preach to All England <hi>Perſonally,</hi> (as I do in part, at this time, <hi>Repreſentatively</hi>) this Scripture might very well ſute, and correſpond with ſuch an occaſion.</p>
+            <p>It was for the firſt Original, and Primitive riſe of it, <note place="margin">The Cohe<g ref="char:EOLhyphen"/>rence.</note> deliver'd by the Holy Man <hi>Moſes</hi> to two of the Tribes of Iſrael, <hi>Reuben and Gad.</hi> And that upon a Petition prefer'd by them to him<g ref="char:EOLhyphen"/>ſelf, together with <hi>Eleazar</hi> the Prieſt, and the Princes of the Congregation, for the injoying of their Inheritance on that ſide
+<pb n="2" facs="tcp:112328:4"/>Jordan; as ye may ſee in the beginning of the Chapter. They ſaw it was a goodly ſeat, where they now were, and ſutable to their own Accommodations; eſpecially for their <hi>Cattell;</hi> and now they intreat to be excuſed for ſtirring and paſſing any fur<g ref="char:EOLhyphen"/>ther, though it ſhould make for the Common Good and Bene<g ref="char:EOLhyphen"/>fit of their Brethren. Private reſpects and intereſts are for the moſt part very Great Hinderances, and Impediments to pub<g ref="char:EOLhyphen"/>lick ſervices. Yet this was the preſent Deſire of theſe two Tribes. A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d this Verſe which I have now read unto you is a part of <hi>Moſes</hi> his Anſwer, which be thinks ſitting to return unto them. <hi>But if ye will not do ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> behold ye have ſinned, &amp;c.</hi>
+            </p>
+            <p>In which words we have two main Parts obſervable of us. <note place="margin">The Diviſion.</note> Firſt, The Diſcovery or Intimation of ſin. Secondly, The Threat<g ref="char:EOLhyphen"/>ning or Denunciation of Judgement. <note place="margin">Two Generall parts.</note> The Diſcovery of ſin; that we have in the firſt Clauſe. <hi>But if ye will not do ſo, behold ye have ſinned againſt the Lord.</hi> The Denuntiation of Judgement, that we have in the latter; <hi>And be ſure your ſin will find you out.</hi>
+            </p>
+            <p>We begin firſt of all with the Forms; <hi>viz.</hi> The Diſcovery of ſin; in the firſt part, <hi>But if ye will not,</hi> &amp;c. Where we ſee <hi>Moſes</hi> deals freely, and plainly, and openly with them, as became the Prophet of the Lord, and herein approves himſelf to be that which the Apoſtle ſtyles him, <note place="margin">Hebr. 3.2.</note> even <hi>faithfull in all his houſe.</hi> Before we come to the main point conſiderable and as principally in<g ref="char:EOLhyphen"/>tended in the Text, <note place="margin">The firſt Ge<g ref="char:EOLhyphen"/>nerall.</note> as the particular ſcope of it, here is ſome<g ref="char:EOLhyphen"/>what which we may obſerve in <hi>Generall,</hi> 
+               <note place="margin">The Diſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of ſin.</note> as preparatory and in<g ref="char:EOLhyphen"/>troductive hereunto, and that in ſundry Deductions, which I ſhall but name and touch upon.</p>
+            <p>As firſt for the <hi>manner of his propoſall,</hi> 
+               <note place="margin">Generall Ob<g ref="char:EOLhyphen"/>ſervations.</note> and breaking of this bu<g ref="char:EOLhyphen"/>ſineſſe to them. <hi>If</hi> ye will not, &amp;c. We ſee here, he does but make an <hi>If</hi> of it; he does not abſolutely <hi>conolude</hi> it as being willing to hope the beſt. <hi>Suppoſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io wibil p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nit in eſſe,</hi> as we uſe to ſpeak. There's no hurt in an <hi>If</hi> if that be all. He had heard what came from them, whereby they had given ſhrewd ſuſpitions; but yet he thinks they may at laſt repent them, as indeed in concluſion they did, <note place="margin">I. The manner of propoſall. 1 Cor. 13.7.</note> and therefore but <hi>If.</hi> This ſhews us how we ſhould carry our ſelves upon ſuch occaſions as theſe are; namely, with a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the fairneſſe and ingenuity that poſſibly may be, joyned to<g ref="char:EOLhyphen"/>gether with a ſpirit of diſcerning and fear of miſcarriage. We ought not to be too raſh in our Cenſures, nor peremptory in
+<pb n="3" facs="tcp:112328:4"/>our Determinations againſt any without juſt ground, and cauſe for it, but carry it with all the charitableneſſe, and favourable conſtruction that we can, and as the thing it ſelf will admit <note n="*" place="margin">
+                  <hi>Oculus favo<g ref="char:EOLhyphen"/>ris <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ga om<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em lab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eſt; ſed Oculus <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>videntiae pro<g ref="char:EOLhyphen"/>mulgat vitia.</hi> Arabs. Poeta Anonym</note>. Thus does <hi>Moſes</hi> in this Text. He does not ſay abſolutely they <hi>bad</hi> ſinned, or <hi>would</hi> ſo, but onely ſuppoſes it. <hi>If</hi> ye will not.</p>
+            <p>And yet this <hi>If</hi> of His it was not an <hi>idle</hi> If neither. It was not a ſuppoſition without cauſe. There was ſome ground and occa<g ref="char:EOLhyphen"/>ſion for it. This ſmoke it had ſome fire which went along with it, and this fire it had ſome fuell affoarded unto it. And that was that overture which we find theſe Tribes to have made in the beginning of this Chapter. This made <hi>Moſes</hi> to ſuſpect them, and to be a little j<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous of them, and accordingly here to admoniſh them, and to deal thus freely with them. Where<g ref="char:EOLhyphen"/>by he would hint thus much unto us; That as we muſt not on the one ſide be too raſh, and condemne there where we have no cauſe; ſo on the other ſide we muſt not be too blinde, and not ſee where things are plain before our eyes. Either of theſe is unſeemly, and ill becoming thoſe who have to deal with others ſouls. But ſo much in a word of that.</p>
+            <p>Again, ſecondly; In that it is ſaid here, <hi>If ye will not do ſo.</hi> Ob<g ref="char:EOLhyphen"/>ſerve, <note place="margin">II. The guilt of Omiſſion.</note> that there's a great deal of guilt and iniquity even in ſins of <hi>Omiſſion.</hi> The neglect of what we <hi>ſhould do</hi> is a buſineſſe which we are accountable for, as well, as the venturing upon that which we <hi>ſhould forbear.</hi> And we may as well do too little, as do too much. Theſe Tribes they were not likely to be guilty of any great and notorious <hi>Commiſſim.</hi> No; but they would ſhrink from their <hi>Duty,</hi> and that work which God had call'd them unto; and this would be a ſin in them. Therfore <hi>Moſes</hi> warns them of it to prevent them in it. We are not onely commanded by God to ab<g ref="char:EOLhyphen"/>ſtain from <hi>evill,</hi> but likewiſe to do <hi>good.</hi> And the failing in <hi>this</hi> is ſuch a matter as the <hi>people of God</hi> are wont to be much grieved and humbled for: And ſo ſhould every one of <hi>us.</hi> That we are no more fruitfull in our places, nor diligent in our callings, nor watchtu over thoſe opportunities, which God affords us, &amp; puts into our hands. That we do and receive no more good, then for the moſt part we do, <hi>this</hi> is ground and matter of ſerious humi<g ref="char:EOLhyphen"/>liation unto us: yea that even for the duties themſelves, w<hi rend="sup">ch</hi> for the ſubſtance we ſet upon our hearts are no more inlarged in them. That our prayers are ſo full of coldneſſe, and our hearings
+<pb n="4" facs="tcp:112328:5"/>ſo full of dulneſſe, and our faſtings ſo full of cuſtomarines, and our converſe ſo full of unprofit ableneſſe, as oftentimes it is: that we do not riſe to that height, and pitch, and meaſure, and de<g ref="char:EOLhyphen"/>gree of goodneſſe, which God expects and requires of us. This ſhould ſeriouſly humble us, and caſt us down in his ſight. Yet, this is a point, which but few lay to heart. It may be if they fall into ſome groſſe and hainous crimes, whoredome, or mur<g ref="char:EOLhyphen"/>ther, or the like, &amp;c. they are a little ſtartled at it, and their Con<g ref="char:EOLhyphen"/>ſcience begins to check them. But <hi>neglects,</hi> and leaving duty un<g ref="char:EOLhyphen"/>done, this it ſeldome or never troubles them: Now this is that which we ought to conſider, and to be affected withall. And eſpecially ſo much the more, as we have at any time the greater advantages and opportunities admini<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red unto us. Thoſe which have greater parts then others, in matter of wit; And thoſe which have greater eſtates then others, in matter of wealth. And thoſe which have greater Honours then others, and more Authority, and Eminency in the world in matter of place. Theſe had need to be ſo much the more ſhy, and wary of theſe ſins of omiſſion, which are ſo much the more dangerous in them. Which we learn briefly from this paſſage before us here in the Text. If ye will <hi>not do ſo,</hi> ye have finned.</p>
+            <p>Again, <note place="margin">III. The manner of expreſſion.</note> thi dly. Obſerve here the manner of <hi>Expreſſion.</hi> Firſt, in the ſpecification of the Perſons, and bringing the buſineſſe home to their particular Conſciences. Here's no mincing, nor daubing at all, but plain-dealing: If <hi>you</hi> will not do ſo, <hi>you</hi> have ſinned. He joyns the <hi>ſin</hi> and the <hi>perſons</hi> together: layes the ſaddle upon the righ Horſe; and the Cenſure there where it belongs. He does not ſay onely, It is a ſin, but <hi>you</hi> have ſinned. The life of Doctrine lies in the Application of it; as <hi>Nathan</hi> in his deal<g ref="char:EOLhyphen"/>ing with <hi>David: Thou art the man.</hi> And that the rather in regard of our diſpoſition to the contrary, which is ſtill to drive it off from our ſelves, as nothing concerned in it: If it be <hi>ours,</hi> then forſooth 'tis not <hi>ſin,</hi> take heed of <hi>that</hi> by all means. If it be <hi>ſin,</hi> then again it is not <hi>ours:</hi> be ſure to rid our own hands of it. But therefore does the Miniſtery of the Word ſupply this defect in us. It is a <hi>ſin,</hi> and <hi>you</hi> guilty of it.</p>
+            <p>Beſides further, the manner of expreſſion may be taken notice of in the <hi>laying</hi> of the Accuſation, in that it is here put in the preter perfect tenſe, ye <hi>have</hi> ſinned. <hi>Have</hi> ſinned? Nay, but ſoft I
+<pb n="5" facs="tcp:112328:5"/>pray, why ſo? One would ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thought it had been a great deal more ſutable in the ordinary congruity of ſpeech, to have laid it in the <hi>future,</hi> and ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to have ſet it <hi>thus.</hi> If ye will not do ſo, ye <hi>ſhall</hi> ſin, or ye <hi>will</hi> ſin; and not to ſay, ye <hi>have</hi> ſinned, this ſeems to be a little <hi>improper,</hi> and <hi>prepoſterous,</hi> and ſomewhat too quick to take them up before they are down. But yet it is that which the holy Ghoſt rather makes choice of for very good reaſon: as namely this: firſt, hereby to ſignifie that there is a guilt even in evill <hi>purpoſes</hi> and reſolutions before they come into <hi>Act.</hi> The very <hi>thought</hi> of fooliſhneſſe is ſin, <note place="margin">Prov. 24.9.</note> as <hi>Solomon</hi> tels us. For any but to <hi>reſolve</hi> with themſelves to withdraw from that which is their duty, it is a ſin in Gods account, though they have not <hi>yet</hi> withdrawn from it: ſo it was here with theſe people in the Text. Whiles they now had ſuch thoughts in themſelves to decline that work which belonged unto them, it had the danger of guilt upon them, though they had not as <hi>yet</hi> done it. This is that which we ſhould think for our ſelves, that God conſiders and judges of us by what we are in our <hi>Intentions,</hi> as we has by what we are in our <hi>Actions,</hi> whether in good or evil, what <hi>we would</hi> be, that with him <hi>we are.</hi> Secondly; it is ſaid, ye <hi>have</hi> ſinned, rather then ye <hi>ſhall.</hi> Hereby to put it more out of doubt, as a thing which was certainly ſo indeed, as ſure, as if they had done it already. And ſo much alſo for <hi>that.</hi>
+            </p>
+            <p>Fourthly, Obſerve the <hi>Nature</hi> of the Argument, <note place="margin">IIII. The Nature of the Argu<g ref="char:EOLhyphen"/>ment.</note> which <hi>Moſes</hi> here uſes unto them. There's ſomewhat which we may learn alſo from <hi>that.</hi> When he would put this People upon a ſervice, which concern'd them, and became them to undertake; How does he go about to perſwade them, and to work upon them? Why, he does it in the firſt place thus; by telling them that in the Omiſſion of it, they ſhould be guilty of <hi>ſin.</hi> Here was now <hi>Argumentum ad Homines.</hi> He knew whom he ſpake to, at leaſt for a great party amongſt them, to wit, the people of God: wherby he would hint thus much unto us; That there is no ſuch forcible Argument to prevail upon Gods people for the doing of any thing which is their duty, as by working this upon them, that they ſhould <hi>ſin,</hi> if they did not perform it. <hi>If ye will not do ſo, ye have ſinned. Moſes</hi> thinks he has now ſaid <hi>enough.</hi> And ſo indeed he had; becauſe this is that main Principle which the godly ſtill go by; that they ſhun, and avoid <hi>this,</hi> whatſoever they
+<pb n="6" facs="tcp:112328:6"/>do beſides. This is that which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gracious Heart does abſolute<g ref="char:EOLhyphen"/>ly propound to it ſelf, as the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which ſhall bear ſway with it upon all occaſion, <hi>By no means willingly to ſin.</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prometh.</note> The rule which <hi>others</hi> go by, is <hi>By no means willingly to ſuffer;</hi> At no hand to under<g ref="char:EOLhyphen"/>go any <hi>ſorrow,</hi> though the eſcaping of it coſt them their ſouls; They'l be ſure to look to that; And ſo (as <hi>Elibu</hi> ſpeaks) <hi>chooſe iniquity rather then affliction</hi> 
+               <note n="*" place="margin">Ioh 36.21.</note>: But this is the purpoſe of thoſe which are <hi>good;</hi> not to allow themſelves wittingly in any <hi>ſin.</hi> So that now if ye can but convince them of <hi>this,</hi> ye have ſuffici<g ref="char:EOLhyphen"/>ently wrought upon them, and may bring them to what you will. Which therefore is a very good courſe to be taken by our ſelves in ſuch caſes as theſe are. When we would take men off from any thing, which is am<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, or put them for ward upon any thing which becomes them, this is the readieſt way, which we can take with them; if they be ſuch as are religious, to warn them of ſin.</p>
+            <p>Onely, <note place="margin">Caution.</note> I muſt put in this caution, That we be ſure that it be ſo <hi>indeed,</hi> and that we proceed upon right grounds: Otherwiſe we our ſelves ſhall be guilty of a great miſcarriage, which too many ſometimes full into, who to work about their own ends, and to accompliſh their private deſignes, which they lay down to themſelves do intangle the Conſciences of the weak by thoſe burthens, which they lay upon them, becauſe they know they are tender, and ſcrupulous. This is an horrible profanation of Gods ordinances and a great abuſe of Gods people; which therefore we muſt be wary of <hi>Moſes</hi> here did not ſo. He knew it was a ſin indeed; this ſuppoſed omiſſion, and accordingly is thus urgent with them, to take heed, how they fell into it.</p>
+            <p>And further, <note place="margin">V. The Amplifi<g ref="char:EOLhyphen"/>cation of the Argument.</note> for the Amplification of this Argument. <hi>Ye have ſinned againſt the LORD.</hi> There's a ſpeciall emphaſis in <hi>that</hi> allo. To ſignifie that <hi>this</hi> in all our ſins ſhould moſt of all affect us. It was ſomewhat, that they ſhould have ſinned againſt <hi>Moſes,</hi> and againſt then <hi>Brethren,</hi> and againſt <hi>themſelves</hi> (as indeed they had done all this, in ſuch a neglect) yea, but againſt the LORD. This was that which pincht moſt. How can I do this great wic<g ref="char:EOLhyphen"/>kedneſſ; <note place="margin">a Gen. 39.9.</note> and ſin againſt <hi>God;</hi> ſaies <hi>Joſeph*,</hi> when he was tempt<g ref="char:EOLhyphen"/>ed to uncleanneſſe. And <hi>God forbid that I ſhould ſin againſt the LORD,</hi> 
+               <note place="margin">b 1 Sam. 12.23</note> 
+               <hi>in ceaſing to pray for you,</hi> ſaies <hi>Samuel</hi> ſometime to the people*. <note place="margin">c Pſal. 51.4.</note> And <hi>David</hi> concerning himſelf. Againſt <hi>thee, thee</hi> onely
+<pb n="7" facs="tcp:112328:6"/>have I ſinned. That is, <hi>I ſtand upon</hi> nothing ſo much, as I do upon this. <note place="margin">1 Sam. 2.29.</note> And old <hi>Eli</hi> gives us the reaſon in his arguing with his ſons. If one man ſin againſt another, the <hi>Judge</hi> ſhall judge him; But if a man ſin againſt the <hi>LORD,</hi> who ſhall intreat for him? Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s is that which <hi>Moſes</hi> urges upon theſe Tribes, the more to work upon them. Ye have <hi>ſinned, and ye have ſinned againſt the LORD.</hi>
+            </p>
+            <p>Laſtly, here<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the word of excitement, <note place="margin">VI. The word of Excitement.</note> which is prefixt to make it more remarkable. <hi>Behold:</hi> There are two words in this Text of ſpecial inforcement, and provocation Here's <hi>BEHOLD,</hi> and <hi>BE S<g ref="char:V">Ʋ</g>RE. Behold,</hi> that's prefixt to the <hi>ſin.</hi> And <hi>Be ſure,</hi> that's prefixt to the <hi>puniſhment.</hi> And both upon very good ground. Wherein the Spirit of God applyes himſelf ſutably to our natural Temper, and Diſpoſition. In matter of <hi>Judgement,</hi> and Puniſhment; <hi>here</hi> we are commonly <hi>ſecure,</hi> and preſumptu<g ref="char:EOLhyphen"/>ous, we cannot <hi>beleeve</hi> it; Therefore for this, <hi>Be ſure.</hi> And in mat<g ref="char:EOLhyphen"/>ter of <hi>ſin,</hi> and tranſgreſſion, <hi>here</hi> we are commonly <hi>blinde,</hi> and ignorant, we will <hi>not acknowledge</hi> it. Therefore for this, <hi>Behold.</hi> And this latter is that which here firſt offers it ſelf tous, as be<g ref="char:EOLhyphen"/>ing firſt in the order of the words.</p>
+            <p>This is the fiering of the Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>con, to make us ſo much the more look about us, and to confider how it is with us, which is not (as I ſaid) without cauſe, and occaſion for it. This is the firſt-ſtep in Repentance to bring the malefactor <hi>in ſight,</hi> and to ſet the ſin before <hi>our eyes:</hi> to behold it, and view it well; with<g ref="char:EOLhyphen"/>out which we cannot ſo eaſily condemn it, and ſet our ſelves againſt it. That man can never <hi>be humbled for</hi> his ſin, who is not firſt <hi>convinced</hi> of his ſin; And that man cannot ſo eaſily <hi>leave</hi> his ſin, who does not firſt <hi>ſee</hi> and diſcern it. Therefore this is a main work of the holy Ghoſt upon the Conſciences of ſinners. <note place="margin">Ioh 16.8.</note> 
+               <hi>To con<g ref="char:EOLhyphen"/>vince the world of ſin.</hi> Both to ſhew them that ſuch courſes are ſinfull, for the nature of the things themſelves, and to ſhew them alſo that they are taxable for them, in regard of their own guilt and intereſt in them. But of this we ſhall have occaſion to ſpeak more diſtinctly afterwards. And thus much briefly of the Ob<g ref="char:EOLhyphen"/>ſervations in General, which I have no more but onely toucht and glanced at; as ayming chiefly at ſomewhat elſe, which is behinde.</p>
+            <p>We come now more cloſely to the Text, in the words them<g ref="char:EOLhyphen"/>ſelves.
+<pb n="8" facs="tcp:112328:7"/>
+               <hi>But if ye will not do ſo.</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Im lo táaſûn ken.] which (if ye would) might be conſtrued <hi>Abſolutely.</hi> If ye will not do that which is <hi>right. Sinon feceritis Rectum.</hi> So the word in the Hebrew would carry it very well; and ſo alſo the ſenſe of the place. But it is better to take it <hi>Relatively,</hi> as the Septuagint alſo does. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. If ye will not do <hi>ſo.</hi> So? How is that? This we muſt fetch from the Context by looking back upon the for<g ref="char:EOLhyphen"/>mer part of the Chapter, where the buſineſſe is related to us; and near at hand in <hi>v.</hi> 20. where <hi>Moſes</hi> ſpeaks to them of their going over Jordan before the Lord, for the driving out of the enemies before them. This theſe two Tribes at the preſent ſeemed to decline. They were in a convenient place for their cattell, and outward Advantages as I ſhewed in the beginning; and they now began to think with themſelves, <hi>Bonu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt eſſe hic.</hi> It is good for us to <hi>be here,</hi> and to ſleep in an whole skin. What ſhould we ſtir any further to our own trouble, and hazard, and diſcommodity? <hi>Hic juvat uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> morari, nec conferre gradum.</hi> Here we are; and here let us ſtay, &amp; ſtick, if we can know when we are well: Now this does this holy man of God juſtly tax, and meet with in them, and tels them that in the neglect of this ſervice, they ſhall ſin againſt the Lord; nay to make it more ſure unto them, they have ſinned already. <hi>If ye will not do ſo, ye have ſinned.</hi> That which here offers it ſelf to us as the point to be obſerved is this. That the neglect of the Aſſiſtance of our Brethren in their Indeavours againſt the Churches common Enemies, it is a very great, and grievous ſin. Whoſoever are guilty of it, they fin, and againſt the Lord,</p>
+            <p>I need not heap up Teſtimonies for the proof of this unto you. Ye have a famous place to this purpoſe; in <hi>Judg.</hi> 5.23. <hi>Curſe ye Meroz., ſaith the Angel of the Lord: Curſe ye bitterly the Inhabitants thereof, becauſe they came not up to the help of the Lord, to the help of the Lord againſt the Mighty.</hi> Who this <hi>Meroz</hi> was, is not ſo eaſily con<g ref="char:EOLhyphen"/>cluded by Interpreters: but this is enough to know of them, that they had ability and opportunity offer'd them of being help<g ref="char:EOLhyphen"/>full to the people of God, which they neglected, and thereupon were curſed. Yea, and that ſo bitterly, as that the Curſe ſticks by them unto this Day; and their Names and Place are cut off f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om all remembrance of good in the world. The like we ſhall find to be pronouced againſt thoſe which did not help againſt
+<pb n="9" facs="tcp:112328:7"/>
+               <hi>Moab. Jerem.</hi> 48.10. <hi>Curſed is he that does the work of the Lord de<g ref="char:EOLhyphen"/>ceitfully;</hi> and <hi>Curſed is he that keepeth back his ſword from blood;</hi> That is, from the blood of the <hi>Church's Enemies,</hi> which God had now commanded to be ſhed by the <hi>Churches friends.</hi>
+            </p>
+            <p>Now the greatneſſe of this ſin may be laid forth to us in ſun<g ref="char:EOLhyphen"/>dry aggravations; <note place="margin">A double Ag<g ref="char:EOLhyphen"/>gravation.</note> And thoſe of two ſorts; The one, as referring to our <hi>Brethren,</hi> and the other to <hi>God himſelf.</hi> And moſt out of the Text in hand.</p>
+            <p>Firſt in order to our <hi>Brethren.</hi> 
+               <note place="margin">I. In ord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r to our Brethren.</note> And ſo there are theſe Aggra<g ref="char:EOLhyphen"/>vations in it. Firſt, as it is a piece of <hi>Injuſtice,</hi> and unſutableneſſe, and inequality of proceeding; it is to take to our ſelves a privi<g ref="char:EOLhyphen"/>ledge, and prerogative above other men, betwixt whom, <note place="margin">I. Injuſtice.</note> and our ſelves there is otherwiſe no great difference. This is intima<g ref="char:EOLhyphen"/>ted in the ſixt verſe of this Chapter. And <hi>Moſes</hi> ſaid, &amp;c. <hi>Shall your Brethren go to war and ye ſit here?</hi> As who ſhould ſay; Are <hi>you</hi> better then <hi>they?</hi> Is <hi>your</hi> pains and trouble, and hazard, and diſ<g ref="char:EOLhyphen"/>eaſing of your ſelves more to <hi>you,</hi> then theirs is to <hi>them?</hi> Why ſhould ye refuſe to do that, which <hi>others</hi> do before you? There is ſomewhat conſiderable in this. It is fayling in the office of a <hi>Member,</hi> whether of the Church, or Common-wealth, and it carries the ſuſpicion of lazineſſe, and idleneſſe upon it, which is a very great ſin <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Am<g ref="char:EOLhyphen"/>bo conjungun<g ref="char:EOLhyphen"/>tur in Evan<g ref="char:EOLhyphen"/>gelio.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Baſil Caſarien.</hi>
+               </note>.</p>
+            <p>Secondly, <note place="margin">II. Neglect of a good example.</note> There's the forſaking of the Advantage of a <hi>good pattern,</hi> and copy, which is ſet us. And there's another evil alſo in <hi>this.</hi> This is alſo included in that expreſſion, <hi>Shall your Brethren go to war, and you ſit here ſtill?</hi> That is, ſhall <hi>they</hi> ſet you ſuch <hi>an example,</hi> and will not you follow it? There are ſome which now and then do not venture, nor put themſelves upon ſuch and ſuch undertakings, but then they have ſomewhat to ſay for themſelves; And that is, that they have no bod to lead them, and ſhew them the way. As the Eunuch ſaid once to <hi>Philip</hi> up<g ref="char:EOLhyphen"/>on another occaſion. <hi>How can I except ſome man ſhould guide me?</hi> 
+               <note place="margin">Act. 8 31.</note> This is ſome kind of pretence for ſome in their declining of ſuch and ſuch ſervices. They have no body to break the yce, and to go before them, and ſhew them what to do. But this in point of <hi>Aſſiſtance</hi> cannot be ſaid; They have others leading them, and yet withdraw. We are accountable not onely for <hi>gosdrules,</hi> but alſo for <hi>good examples,</hi> how <hi>they</hi> have been improved
+<pb n="10" facs="tcp:112328:8"/>by us, and how our ſelves have been the better for them; which not to be has much gui tineſſe in it.</p>
+            <p>Thirdly, <note place="margin">III. Diſcouraging of others. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> It is a diſcouraging of others, who from our with<g ref="char:EOLhyphen"/>drawing are made more unwilling, and provoked to draw back. Thus in <hi>v.</hi> 7. of this Chapter. Wherefore diſcourage ye, <hi>or break</hi> ye the hearts of the children of Iſrael, from going over into the land? <hi>Teniu.</hi> And this is amplified from an example of great miſchiefs, which hereby happened to their fore-fa<g ref="char:EOLhyphen"/>thers, in <hi>v.</hi> 8. ſo then <hi>if ye</hi> refuſe to go (ſaies he) who ſhall? This is a great Aggravation which lies upon theſe ſins of omiſſion; not onely that herein we fail of our <hi>own Duty,</hi> but that we make others alſo fail of <hi>theirs,</hi> occaſionally from our bad example. And theſe are the Aggravations of this ſin in reference to our Brethren.</p>
+            <p>Secondly, <note place="margin">The ſecond Aggravation.</note> it admits alſo of Aggravation, in reference to <hi>God himſelf.</hi> It is a ſin againſt the <hi>Lord.</hi> And that in theſe reſpects. Firſt, <note place="margin">I. Miſimproving of giſts.</note> As a <hi>miſ-improving of thoſe gifts</hi> and abilities, which he con<g ref="char:EOLhyphen"/>fers upon us; look how much ſtrength, or wealth, or wit, or po<g ref="char:EOLhyphen"/>licy any have more then others, it is not their own but the <hi>Churches,</hi> and for the good of the people of God. Now therefore accordingly not to uſe them is a falſifying in this reſpect. It is a <hi>not fulfilling</hi> after God. <hi>v.</hi> 11. And this muſt needs be a very great miſcarriage, and defect in them. Becauſe there, where God hath <hi>given</hi> more, even there he does <hi>expect</hi> and look for more; which ſhould be return'd to him in anſwerable improvement.</p>
+            <p>Secondly, <note place="margin">II. Vnthankfulnes for me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es.</note> As an <hi>Unthankfulneſſe for his mereies;</hi> and our own preſent eaſe and relaxation: Theſe Reubenites, and Gadites were now ſetled in their own Inheritances; And therefore by way of thankfulneſſe to God it became them to be helpfull to their Brethren: We cannot better recompenſe, and requite all Gods goodneſſe, and mercy to our <hi>ſelves,</hi> then by pity, and com<g ref="char:EOLhyphen"/>paſſion to <hi>others</hi> which want thoſe mercies, which we injoy; and by an indeavour to help them to them.</p>
+            <p>Thirdly, <note place="margin">III. Betraying of the Church.</note> As a <hi>Betraying of Gods people</hi> and Cauſe into the hand of his Enemies, which by our Aſſiſtance might have ſome fur<g ref="char:EOLhyphen"/>therance, and promotion; and a preferring of our own private intereſts to his glory, and truth. God himſelf (ſo far forth as he is capable) ſuffers in the perſecutions of his people; and their miſeries reflect upon <hi>him.</hi> When the Enemy prevails againſt the
+<pb facs="tcp:112328:8"/>
+               <hi>Church,</hi> it does ſo far forth prevail againſt the <hi>Truth,</hi> which is profeſt, and maintain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>by</hi> the Church. As therefore we have re<g ref="char:EOLhyphen"/>gard to <hi>that,</hi> we ſhould have regard to <hi>this.</hi> And thus in all theſe reſpects do we ſee this made good unto us. That this neglect is a very great ſin.</p>
+            <p>Now the improvement of this Point to our ſelves in a way of pertinent and profitable Application may be to keep our ſelves from this ſin, and to take heed, that we be not guilty of it, <note place="margin">The Applica<g ref="char:EOLhyphen"/>tion.</note> for our own particulars. And that ye may know what I mean, and drive at all this while in this Diſcourſe, it is that which is moſt proper and ſutable to the occaſion of this preſent Day as con<g ref="char:EOLhyphen"/>cerning the elief of <hi>Ireland,</hi> which is now in ſo great diſtreſſe, and brought into ſo lowe a Condition. This is that (my Lords) which my preſent Text with the preſent opportunity leads me to, to mention, and bring into remembrance; That there may beſome ſpeedie courſe taken for the reducing of that miſerable Kingdom, as to your <hi>Wiſdoms</hi> ſhall beſt appear. Alas (Right Honorable) what a ſad thing is it, that while <hi>we</hi> are diſputing, and conteſting at <hi>Home,</hi> the Church of God ſhould ſo much ſuffer <hi>abroad,</hi> and a whole Nation ſo neer unto us be quite loſt, and deſtroyed. There's a notable place to this purpoſe, in <hi>Pro.</hi> 24.11, 12. <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u forbear to deliver them that are drawn unto death, and thoſe that are ready to be ſlain; If thou ſayeſt, Behold we knew it not. D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th not He that pondereth the heart conſider it? And be that keepeth thy ſoul, doth not be know it? And ſhall not be render to every man ac<g ref="char:EOLhyphen"/>cording to his works?</hi> It is ſpoken <hi>there</hi> of private violences and op<g ref="char:EOLhyphen"/>preſſions of particular perſons, &amp;c. which every one in his place is to redreſſe; but is may be alſo extended and applied to the ſufferings of an whole State: and the duty which lyes upon An<g ref="char:EOLhyphen"/>other for the relief of that. Where we may obſerve, how the Spirit of God prevents all excuſes and ſhifts, which might be made in ſuch a buſineſſe. Alas, we did not know it, we were ignorant of the Condition which they were in; we did not think them to be ſo bad, as they are. Well (ſayes he) do not pleaſe your ſelves with ſuch pretences as theſe are; for he that pondereth the heart conſiders it, &amp;c. That is, he knows, whe<g ref="char:EOLhyphen"/>ther this be a ſhift, and excuſe to put off the ſervice, or whether there be a truth, and reality in it; and he will render to every man according to his deeds. Therefore I beſeech ye let us All
+<pb n="12" facs="tcp:112328:9"/>take heed how we be wanting to our ſelves, in ſuch a Duty as this is of helping Gods diſtreſſed people; I ſay let us A I take heed of it. For this Exhortation reaches not onely to thoſe, which are intereſted in the Affairs of State (although to them principally) but to all others whatſoever in their ſeverall ranks and relations. Some by their perſons, and ſome by their purſes; and All by their prayers to put to their helping hand, for the driving out of thoſe barbarous Rebels, that the land may be ſubdued before the Lord; and that afterward we our ſelves may return, and be guiltleſſe before the Lord, and before Iſrael, to uſe the words of <hi>Moſes</hi> in the verſe before the Text. This, I ſay, is the work of the <hi>Day,</hi> at leaſt in regard of the firſt originall of it; which therefore we ought ſo much the rather to hearken and liſten unto. Eſpecially conſidering that hence the fire firſt brake out, which hath ſince unhappily reach'd to our ſelves, and not onely touch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the top of our Branches, but even threat<g ref="char:EOLhyphen"/>ned our very root it ſelf. And who knows whether the ſire, which is in ſome reſpects quencht, may not from hence break out again more fiercely, if it be not better lookt to, and prevented, that ſo we may derive our <hi>puniſhment</hi> from that which is the matter of our <hi>ſin?</hi> As He that will <hi>win England,</hi> ſo he that will <hi>ſave</hi> or recover <hi>England,</hi> he muſt begin firſt at <hi>Ireland,</hi> as we uſe to ſpeak. And ſo much of the firſt Generall in the Text; <hi>viz.</hi> The Diſcovery of ſin. <hi>But if ye will not do ſo, ye have finned, &amp;c.</hi>
+            </p>
+            <p>I come now to that, <note place="margin">The ſecond Generall.</note> which I chiefly, and principally aime at in this Scripture: And that is the ſecond Generall, in the Denun<g ref="char:EOLhyphen"/>ciation of Judgement. <hi>And be ſure, your ſin will find you out.</hi> This is added by way of further inforcement of the foregoing Inti<g ref="char:EOLhyphen"/>mation. He had ſaid in the clauſe before that they had finned againſt the Lord; why, but to this ſome might either have ſaid in open terms, or at leaſt have ſecretly thought it in their hearts, Why, what great matter of that? ſin againſt the <hi>Lord?</hi> ſo we hope we may do, and yet do well enough for all that. For the <hi>Lord,</hi> He is gracious, and mercifull, and long-ſuffering, and ſlow to wrath; And as for ſin it ſelf, we hope there's no ſuch great matter in it, but that we may ſcape well enough with it. To this <hi>Moſes</hi> here addes by way of prevention and anticipa<g ref="char:EOLhyphen"/>tion, and tels them in ſober ſadneſſe; that it is but a folly for them to flatter themſelves. <hi>Be ſure your ſin will find you out.</hi> In
+<pb n="13" facs="tcp:112328:9"/>which clauſe here are two particulars further conſiderable of us. Firſt, a word of Threatning and commination upon ſuppo<g ref="char:EOLhyphen"/>ſition of a miſcarriage. Your ſin will find you out. Secondly; A word of ſtrengthening and confirmation, upon ſuppoſition of a miſ-conceit. <hi>Be ſure</hi> you ſin, &amp;c. We'l begin with the laſt firſt, <note place="margin">The firſt par<g ref="char:EOLhyphen"/>ticular.</note> as being firſt in the order of the words. And that is the word of Confirmation, <hi>Be ſure.</hi> Be ſure? Why, but what needs this? Does any man doubt of that, or call it in queſtion that his ſin will ſometime or other find him out? Yes; many thouſands in the world not onely doubt of it, and call it in queſtion whether it <hi>will;</hi> but beleeve it, and are verily perſwaded that it will <hi>not;</hi> that it will <hi>never</hi> find them out. So that here now we have im<g ref="char:EOLhyphen"/>plicitly ſignified by this expreſſion (which is the point to be ob<g ref="char:EOLhyphen"/>ſerved by us) the diſpoſition of moſt ſorta of people, as concern<g ref="char:EOLhyphen"/>ing the Apprehenſions of ſin; which is to think when they have once committed it, that they ſhall never hear of it more. This is that which is here ſuppoſed by <hi>Moſes.</hi> He ſaies, <hi>Be ſure,</hi> as knowing mens natures in this particular, which is to doubt and make a queſtion of it. Thus <hi>Pſal.</hi> 36.1, 2. <hi>The tranſgreſſion of the wicked ſaith within my heart, that there is no fear of God before his eyes; for he flattereth himſelf in his own eyes, untill his iniquity be found to be hatefull.</hi> S., <hi>Dent.</hi> 29.19. <hi>There is one that whiles he hears the words of the Curſe, bleſſes himſelf, ſaying, I ſhall have peace, though I walk in the imagination of my heart, to adde deunkenneſſe to thirſt.</hi> And ſo Baby<g ref="char:EOLhyphen"/>lon, ſhe ſaid, <hi>Sho ſhould be a Lady for ever,</hi> &amp;c. Iſa. 47.7.</p>
+            <p>Would we know whence this proceeds; It is eaſie, <note place="margin">I. Subtilty of Satan.</note> to give an account of it, Firſt, from <hi>the ſubtilty of Satan,</hi> who intiſes, and perſwades men hereunto. He tels them, and rounds them in the care, that their <hi>ſin ſhall never find them out,</hi> let it be what it will be. The devill has two main projects upon the ſouls of poore ſinners. The one is to tempt them to <hi>ſin;</hi> And the other is to tempt them to <hi>ſecurity,</hi> upon ſin committed by them. Thus he did in the firſt ſin of a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when he tempted our firſt Parents, <hi>Adam and Eve,</hi> in Paradiſe, He took this courſe with them, to perſwade them, that their ſin ſhould not reach them. <note place="margin">Gen. 3.4. Ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. 13.</note> 
+               <hi>The Serpent ſaid un<g ref="char:EOLhyphen"/>to the woman, Ye ſhall not ſurely die.</hi> And ſhe afterwards caſts it up<g ref="char:EOLhyphen"/>on him, <hi>The Serpent beguiled me, and I did eat.</hi> This was that old Serpent called the devill, and Satan, which deceives the whole world, as it is explained, <hi>Revel. 12.9</hi> It is He which cheats and
+<pb n="14" facs="tcp:112328:10"/>beguiles, and deceives many a ſoul, and perſwades them, that they ſhall do well enough, not withſtanding their ſins. Either that the thing is not a ſin: or if it be a ſin, that it is but a ſmall one. Or if a great one, yet that it is not known: o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if known, yet that they ſhall eſcape puniſhment, and that there are wayes enow to be freed from the fears, and inconveniences of it <note n="*" place="margin">Vitate lin<g ref="char:EOLhyphen"/>guam diaboli, &amp;c. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, ut <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t, blan<g ref="char:EOLhyphen"/>ditur, ut noce<g ref="char:EOLhyphen"/>at; bona pro<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, ut ma<g ref="char:EOLhyphen"/>lurn tribuat: vitam pollice<g ref="char:EOLhyphen"/>tur, ut perim it: pacem pollice<g ref="char:EOLhyphen"/>tur ne perveni<g ref="char:EOLhyphen"/>ri poſſit ad <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ſalutatem p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>i, ne cut promittit, veni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad ſalu<g ref="char:EOLhyphen"/>lutem. Cyp li 1. Ep. 8.</note> Thus does he ordinarily perſwade them, and ſeduce them, and prevail with them, which is the cauſe, that they are to miſ<g ref="char:EOLhyphen"/>led. Hence tis ſaid of <hi>Ananias</hi> and <hi>Sathira,</hi> that SATAN <hi>had filled their heart to lie againſt the holy Gh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> 
+               <note n="b" place="margin">Act <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3.</note>. He had filled their heart, to perſwade them to deceive, and to commit ſacriledge; And he had filled their heart, to find out a lie, and pretence for the hiding of their deceit. Thus had he filled their heart at both corners. And ſo he does commonly with moſt men in the world; firſt he intiſes them to the <hi>miſcarriage;</hi> and then he per<g ref="char:EOLhyphen"/>ſwades them of the <hi>concealment,</hi> or rather firſt perſwades them of the <hi>concealment,</hi> and from thence intiſes them to venture up<g ref="char:EOLhyphen"/>on the <hi>miſcarriage;</hi> 
+               <note n="*" place="margin">Facit hoſtis ſeccures, quos cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pit e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le cap tivos Aug. Hom. 46.</note> Telling them, that if they will but try it, they ſhall be never a whit the worſe for it. Indeed ſometimes again, as he ſees occaſion, and as he conceives it may make moſt for his advantage, ſo he will do the quite contrary, that ſo he may drive to deſpair, when the ſin is over paſt. But yet at ano<g ref="char:EOLhyphen"/>ther time, when he would bring men off to commit it, he com<g ref="char:EOLhyphen"/>monly takes this courſe with them.</p>
+            <p>Secondly, <note place="margin">II. Perfidiouſnes of evill Coun<g ref="char:EOLhyphen"/>ſellors.</note> As this proceeds from the ſubtilty of Satan him<g ref="char:EOLhyphen"/>ſelf ſo alſo from the perfidiouſneſſe <hi>of evill Counſetlers,</hi> which are Satans Inſtruments; falſe Teachers, and falſe-Friends, and the like. <note place="margin">
+                  <list>
+                     <label>Falſe</label>
+                     <item>
+                        <list>
+                           <item>teach<g ref="char:EOLhyphen"/>ers.</item>
+                           <item>friends</item>
+                        </list>
+                     </item>
+                  </list>
+               </note> Firſt falſe Teachers, and ſeducers. There are many falſe Prophets which in this ſenſe alſo <hi>are gone out into the world,</hi> which ſowe pillows under mens elbows, and perſwade them, that ſuch and ſuch evill ſhall not light upon them, which is threatned to them. This the Prophet <hi>Jeremy</hi> complains of, <hi>Jer.</hi> 8.11. <hi>They have healed the hurt of the Daughter o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my people ſleighily</hi> 
+               <note n="c" place="margin">Pacem nunc off runt, qui ipſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>non h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt pacem Cyp Epiſt. l. 1. Ep 8.</note>, <hi>ſaying, Peac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peace, when there is no peace.</hi> As <hi>A<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> had his foure hundred Pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hers of the Groves which flattered him, and ſooth'd him up in his ſin: <hi>Go up to Ram<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Gilead, and proſper.</hi> Even many ſuch like are ſtill alive in the world, who inſtead of ſearch<g ref="char:EOLhyphen"/>ing the wound to the bottom, <note place="margin">1 King 22.</note> skin it over; harden others in their ſins, by their applauſes and approbations of them. And
+<pb n="15" facs="tcp:112328:10"/>I would that great Perſons were alwayes free from ſuch incon<g ref="char:EOLhyphen"/>veniences as theſe are. And ſo as falſe Teachers, <note place="margin">Falſe friends.</note> ſo in like man<g ref="char:EOLhyphen"/>ner <hi>Falſe Friends,</hi> and evill companions, they do the ſame alſo. As the Harlot there in the <hi>Proverbs,</hi> Cap. 7. ver. 19. <hi>Come</hi> (ſaies ſhe there to her mate) <hi>let us take our fill of love till the morning, for the good man is not at home, he is gone a long journey, he hath taken a bagg of money with him, and will not come home till ſuch a day.</hi> That is as much as to ſay, we ſhall not be caught, and taken in our fin.</p>
+            <p>Thirdly; This does alſo proceed from <hi>the deceitfulneſſe of ſin</hi> it ſelf. Which having ſome ſeeming ſweetneſſe in it, <note place="margin">III. Deceitfulnes of ſin.</note> does draw on people to the commiſſion of it, without any attendance at all to the conſequents, which iſſue upon it. That ſoul, which is ſoaked in its luſts, it has no regard of following puniſhment, or of thoſe judgements, which are ready to over-take it, becauſe the Minde and Underſtanding is blinded, and drawn away with the deceit of ſin it ſelf.</p>
+            <p>Laſtly, This does further ariſe from thoſe divers <hi>falſe-reaſon<g ref="char:EOLhyphen"/>ings</hi> and diſcourſes, which are in mens hearts. <note place="margin">IV. Falſe reaſon<g ref="char:EOLhyphen"/>ings.</note> They go upon corrupt deductions, and concluſions in which they miſtake, and ſo think themſelves free from danger.</p>
+            <p>As firſt, from the <hi>extenuations</hi> of ſin; for the nature and guilt of it. Oh, ſay they, it is but a little one, <note place="margin">I. From the ex<g ref="char:EOLhyphen"/>tenuations of ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and we hope no great hurt of that. Not conſidering that the leaſt ſin that is, has a voice and cry in it for vengeance, and ſuch as nothing can ſtop, <note place="margin">He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12.24.</note> but the blood of Chriſt, <hi>which ſpeaks better things then the blood of Abel.</hi> And ſo as the ſmalneſſe of the ſin, ſo the <hi>ſecrecie;</hi> it is ſuch as is privately acted, and therefore they ſhall lie hid.</p>
+            <p>Secondly, Preſent <hi>Impunity.</hi> That's another thing, <note place="margin">2. Preſent impu<g ref="char:EOLhyphen"/>nity.</note> which fur<g ref="char:EOLhyphen"/>thers this conceit. The Drunkard, He thinks with himſelf, that he has followed his cups ſo long, and was never yet the worſe for it; and therefore no more ſhall he be yet. And the Adulterer, <note place="margin">In themſelves.</note> He thinks with himſelf, that he has ſo many yeers wallowed in filthineſſe and uncleanneſſe, and was never yet detected, and why ſhould he fear it now? And the Cheater, He thinks with himſelf, that he has cozened and defrauded others for ſuch a time, and was never yet diſcovered. And why then may he not ſtill eſcape? Thus do men incourage themſelves in evill from their preſent forbearance.</p>
+            <p>And ſo likewiſe from the forbearance of <hi>others,</hi> 
+               <note place="margin">In others.</note> who have
+<pb n="16" facs="tcp:112328:11"/>committed the like ſins with them. <hi>Becauſe entence againſt an evil doer is not executed ſpeedi'y, therefore the Heart of the ſons of men is fully ſet in them to do evill.</hi> Eccleſiaſt. 8.11. When a ſinner is taken pre<g ref="char:EOLhyphen"/>ſently in his fact, <note place="margin">Ioh. 8.4.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, here men are a little ſtartled for a while, but indulgence makes them more ſecure.</p>
+            <p>Thirdly, <note place="margin">3. Preſent pro<g ref="char:EOLhyphen"/>ſperity.</note> Preſent <hi>Proſperity.</hi> This now carries it a little further; when they ſhall think, they have no hurt from their ſin, but (as they conceive) a great deal of good by it, <hi>this</hi> is apt to fluſh them more <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Pinda.</note>; whereas the ſucceſſes of Providence are no fur<g ref="char:EOLhyphen"/>ther incouragements to us then as, they hold touch with the Rule. As the winde and tyde going together they may further and promoteus; but when they are oppoſite they cauſe a Tem<g ref="char:EOLhyphen"/>peſt, and ſtorme. <hi>All things fall alike to all; and there is one event both to juſt and unjuſt.</hi> 
+               <note place="margin">Eccleſ. 9.2.</note> But ſo much of the firſt particular, to wit, the <hi>word of Conformation. Be ſure.</hi> Know it, or take it for granted.</p>
+            <p>The ſecond is the word of Commination or Threatning. <note place="margin">The ſecond Particular.</note> 
+               <hi>Your ſin will find you out.</hi> The phraſe is a little obſcure; and therefore will require ſome explanation; we muſt find out what this <hi>finding-out</hi> means. <note place="margin">A two fold finding out ſin.</note> And we may reduce it to two heads; The one, in a way of <hi>Diſcovery, and manifeſtation.</hi> And the other in a way of <hi>Revonge, and Vindication.</hi> It will find you out, to <hi>detect</hi> you, and to ſhew that you are guilty of it; And it will find you out to <hi>puniſh</hi> you, and to revenge the guilt of it upon you.</p>
+            <p>Firſt, to ſpeak of its Diſcovery. Sin, it will find men out <hi>here:</hi> when they have taken all the courſes that can be to conceal it, <note place="margin">I. By way of Diſ<g ref="char:EOLhyphen"/>covery.</note> yet it will not be concealed <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yſoſt <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>. As <hi>Solomon</hi> of a contenti<g ref="char:EOLhyphen"/>ous woman; <hi>Whoſo bides it, bides the Winde, and the ointment of his right hand,</hi> 
+               <note place="margin">Pro 27.16</note> 
+               <hi>which betrayes it ſelf.</hi> That is, he makes himſelf ridi<g ref="char:EOLhyphen"/>culous by undertaking of a thing which is impoſſible. For a man to think to hide <hi>the winde</hi> is a very fond, and fooliſh ima<g ref="char:EOLhyphen"/>gination, <hi>Who hath gathered the Winde in his fiſts?</hi> Prov. 30.8. And <hi>Eccleſ.</hi> 8.8. <hi>There is no man hath power over the Winde to retain the Winde</hi> Ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uach.] This is a ſubtle and a ſearching creature, which will ſooner over-turn mountains, and Cities, then it will be reſtrain'd. Why, ſuch a kind of thing now is ſin, when it once gets into the heart. It will out ſome way or other; If it does not, it will make an <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-quake,</hi> as the other will make an <hi>Earth-quake;</hi> as ye may ſee <hi>Act</hi> 16.26.</p>
+            <p>This we may ſee in the example of <hi>David</hi> in the matter of
+<pb n="17" facs="tcp:112328:11"/>
+               <hi>Vrijah;</hi> An inſtance which I rather make choice of for the <hi>diſco<g ref="char:EOLhyphen"/>very</hi> of ſin, becauſe ſo many abuſe it for the <hi>commiſſion.</hi> You know how many wayes he went about to conceal his adultery; by making <hi>Vrijah</hi> drunk, by ſending <hi>Vrijah</hi> home, and at laſt by killing <hi>Vrijah,</hi> and taking away his life in the warre: yet all would not do the deed. His filthineſſe muſt out for all this, and ſo it did. This is the condition of ſin, where mens conſciences are once wounded with it, that it muſt out in one kinde or other, and cannot be held in. Look as it was with the ſhip in <hi>Jo<g ref="char:EOLhyphen"/>nab,</hi> as long as <hi>Jonah</hi> was in it, there was no quietneſſe nor ſafe<g ref="char:EOLhyphen"/>tie for it, but the Sea wrought, and was tempeſtuous, and the ſhip it ſelf readie to be broken through the violence of the ſtorme; And though the Marriners dig'd hard to ſave it, yet it would not do, till <hi>Jonah</hi> was caſt out: Even ſo is it likewiſe with a Conſcience, which has ſin lying in it; like a childe in the mo<g ref="char:EOLhyphen"/>thers wombe, which is reſtleſſe till it come into the world, ſo is ſin for the diſcovery of it ſelf. Thus it was with <hi>Achan</hi> in <hi>his</hi> ſin when he had ſtollen the Babyloniſh garment, and thought to be hid with it. And thus it was with <hi>Gebezi</hi> in <hi>his</hi> ſin, when he wiped his mouth as if he had been innocent; they were both of them found out in their evill courſes. And ſo, many others be<g ref="char:EOLhyphen"/>ſides.</p>
+            <p>Now when we ſpeak of this diſcovery of ſin, <note place="margin">Diſcovery of ſin two-fold.</note> and the readines of it to reveal it ſelf, we muſt know that this holds true accor<g ref="char:EOLhyphen"/>ding to a double reference; firſt, in reference to men themſelves; <note place="margin">
+                  <list>
+                     <label>To</label>
+                     <item>
+                        <list>
+                           <item>our</item>
+                           <item>ſelves.</item>
+                           <item>others.</item>
+                        </list>
+                     </item>
+                  </list>
+               </note> and ſecondly, in reference to others; In reference to their own conſciences; and in reference to the knowledge of the world.</p>
+            <p>Firſt, in reference to <hi>themſelves,</hi> and their own conſciences; <note place="margin">I. To them<g ref="char:EOLhyphen"/>ſelves.</note> your ſin will find out here by making work in your own private ſpirits. Thoſe ſins, which m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n have lodg'd a long while in their ſouls without any ſelf-reflexion, they wil at laſt be made known unto them, and they ſhall ſee the vileneſſe of them, and their own wretchedneſſe for them. People commonly think it an ad<g ref="char:EOLhyphen"/>vantage for their Conſciences not to be touch'd and affected with ſin, but alas this will not alwayes laſt, there will a time of diſcovery come at length, when it will be ſo much the worſe with them, as they have not ſeen it all this while. When ſin once flies upon the Conſcience, it rages ſo much the more fierce<g ref="char:EOLhyphen"/>ly, as it hath been hitherto concealed, and layen hid; And for<g ref="char:EOLhyphen"/>mer
+<pb n="18" facs="tcp:112328:12"/>ſecurity is now paid home with preſent vexation; what be<g ref="char:EOLhyphen"/>fore they ſaw not <hi>at all,</hi> they ſhall now ſee perhaps <hi>too much,</hi> and more then they would; As God ſpeaks there to a wicked perſon; <hi>Pſal.</hi> 50.21. <hi>Theſe things haſt thou done, and I held my peace, and thou thoughtſt that I was altogether ſuch an one as thy ſelf, but I will reprove thee, and will ſet thy ſins in order before thine eyes.</hi>
+            </p>
+            <p>Now when we ſay, <note place="margin">Three wayes of ſins Diſco<g ref="char:EOLhyphen"/>very to a mans ſelf.</note> that ſin will find men out in their own Conſciences, we muſt know that this is done by a three-fold occaſion. Firſt, <note place="margin">I. In the Mini<g ref="char:EOLhyphen"/>ſtery of the Word.</note> in the <hi>Miniſtery of the Word.</hi> This is a means which God hath ſanctified and ordained for ſuch a purpoſe as this. <hi>The Word of God is quick and powerfull, ſharper then any two-edged ſword, piercing even to the dividing aſunder of ſoul and ſpirit, and joynts, and marrow, and is a diſterner of the thoughts and intents of the he art.</hi> It has ſuch a power as this is in it, but this power is not alwayes brought into act, neither does it reach, and obtain this effect. There's many an one, which comes to the Word, and who partakes of the Miniſteriall Diſpenſation, who ſtill abides and continues in his ſins, without any remorſe; but yet the Word is appointed for this end, and accordingly does in divers ſo prevail. Thoſe who before had no ſtirrings at all, the Mini<g ref="char:EOLhyphen"/>ſtery has ſo wrought upon their Conſciences, as that they have preſently been convinced in themſelves. Thus it was with St. <hi>Peters</hi> Auditors. <note place="margin">Act 2.37.</note> When they <hi>heard</hi> they were pricked in their hearts. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And thus it was with the diſciples of <hi>Emaus;</hi> 
+               <note place="margin">Luk. 24.52.</note> their hearts burnt within them whileſt Chriſt preacht and diſcourſed unto them. And thus <hi>Felix</hi> the Governor, when <hi>Paul</hi> preach'd to him, it is ſaid, He <hi>trembled,</hi> and could not en<g ref="char:EOLhyphen"/>dure it. The Word of God meeting with his Conſcience did ſo ſhake him, that he could hold out no longer; He was impatient of any further diſcourſe in that matter. <note place="margin">1 Kin. 21.20.</note> You know what was the complement of <hi>Ahab,</hi> which he uſed to the Prophet <hi>Elijah</hi> when he met him by the way. <hi>Haſt thou found me O mine enemy?</hi> The ſame is that which many perſons return to Gods Miniſters inwardly in their hearts, when they touch upon their ſins; And the Miniſter may anſwer them again, as the Prophet did Him, <hi>I have found thee, &amp;c. Becauſe thou haſt ſold thy ſelf to do evill.</hi>
+            </p>
+            <p>Secondly, <note place="margin">II. In ſome ſpeci<g ref="char:EOLhyphen"/>all judgement, or affliction.</note> Another occaſion, in which ſin finds men out, is ſome ſpeciall <hi>judgement,</hi> and Affliction; Thoſe which in time of welfare and proſperity were ſo buſie in following of their luſts,
+<pb n="19" facs="tcp:112328:12"/>and ſinfull pleaſures, that they had no leaſure to think of their ſins, or at leaſt would not attend unto them; when the Hand of God begins once to be upon them, they'l then begin to con<g ref="char:EOLhyphen"/>ſider them, and lay them to heart. As thoſe which have ſome bodily weakneſſe and infirmity hanging about them, though it may be they feel it not <hi>otherwiſe,</hi> yet they ſhall feel it in <hi>bad wea<g ref="char:EOLhyphen"/>ther.</hi> Even ſo is it likewiſe with mens ſins, Affliction will put them in minde of them. And ſo the ſeventy Interpreters read the words of the very Text it ſelf. <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>And you ſhall know your ſin, when calamities, or miſeries light upon you.</hi> Thus <hi>Manaſſes,</hi> when he was among the thorns, and bound with ſetters, and carried to Babylon, it is ſaid that in <hi>his affliction</hi> he humbled himſelf great<g ref="char:EOLhyphen"/>ly before he Lord. 2 <hi>Chron.</hi> 33.12. The widow of Sarepta to the Propher <hi>Elijah; Othou man of God, art thou come unto me, to call my ſin to remembrance, and to ſlay my ſon?</hi> 1 King. 17, 18. And <hi>Juſephs</hi> Brethren, one to another; <hi>We are verily guilty concerning our bro<g ref="char:EOLhyphen"/>ther,</hi> &amp;c. <hi>Gen.</hi> 42.21. Verily guilty? ſo, I hope, they were before; Yes, but now they came to apprehend it, when this diſtreſſe ſell upon them.</p>
+            <p>Thirdly, The commiſſion of ſome <hi>other</hi> ſin, <note place="margin">III. The commiſ<g ref="char:EOLhyphen"/>ſion of ſome new ſin.</note> eſpecially of more hainous conſideration. As long as men go on in a fair and civill courſe without the guilt of any noted offence, ſome ſins which yet neerly concern them, do not ſhew themſelves, or appear un<g ref="char:EOLhyphen"/>to them; but when they fall into ſome <hi>gruſſe abhominations,</hi> this diſcovers them, and makes them known. Scandalous miſcar<g ref="char:EOLhyphen"/>riages, they more diſcover the corruption of Nature; which though it be couch'd in the ſmalleſt, yet in them is not ſo eaſily diſcern'd, as in greater ſins. When men once fall into <hi>theſe,</hi> they hence ſee that filthy ſpring of luſt and wickedneſſe, which they carry about them, which occaſionally is found out to them. And ſo alſo ſome <hi>ſmaller</hi> ſins which they have given themſelves al<g ref="char:EOLhyphen"/>lowance in, theſe are found out to them by <hi>greater,</hi> which after<g ref="char:EOLhyphen"/>wards through Gods juſt permiſſion they fall into. <hi>Nemo repente fuit turpiſſimus.</hi> Men do not uſually jump into groſſe ſins <hi>at firſt,</hi> but upon ſome ſlighter ones favour'd in themſelves, as remiſſe<g ref="char:EOLhyphen"/>neſſe of communion with God, and neglect in duty, &amp;c. One ſin finds out another, and leades to the diſcovery of it. And ſo we have ſeen this Point in the firſt reference, how ſin diſcovers and finds men out <hi>to themſelves.</hi>
+            </p>
+            <pb n="20" facs="tcp:112328:13"/>
+            <p>Secondly, <note place="margin">II. Sin finds men out to <hi>others.</hi> Divers wayes.</note> it does ſo alſo <hi>to others;</hi> it finds men out in the view of the <hi>world:</hi> And this it does again in divers wayes, which I can but name, and point out unto you. Firſt occaſionally from <hi>them<g ref="char:EOLhyphen"/>ſelves.</hi> 
+               <note place="margin">I. From men themſelves By their Diſ<g ref="char:EOLhyphen"/>eaſes.</note> As mens ſins ſhall find them out <hi>to</hi> themſelves, ſo <hi>from</hi> themſelves alſo to <hi>others.</hi> There is ſomewhat in their own <hi>per<g ref="char:EOLhyphen"/>ſons,</hi> and carriages which ſhall ſhew and discover their ſins. And that again by ſundry means. As ſometimes their <hi>Diſeaſes,</hi> and thoſe effects, and conſequents which their ſins have upon their bodies and outward man. There are ſome kind of ſins, which leave a mark and witneſſe behinde them, upon thoſe which are guilty of them. As <hi>Rev.</hi> 1.27. <hi>They received in themſelves that recom<g ref="char:EOLhyphen"/>pence of their errour which was meet.</hi> As under the Law there was <hi>the water of Diſcovery,</hi> which being drunk by the guilty perſon, cauſed the belly hereupon to ſwell, and the thigh to rot, as a ſymptome of guilt; ſo there is ſomewhat which is proportion<g ref="char:EOLhyphen"/>able <hi>ſtill.</hi> 
+               <note place="margin">Dreams.</note> Sometimes by their <hi>Dreams;</hi> many robberies and mur<g ref="char:EOLhyphen"/>thers thus diſcover'd. Sometimes by their <hi>waking</hi> diſtempers; In <hi>drunkenneſſe,</hi> and fits of intoxication <note n="*" place="margin">
+                  <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>brictas o<g ref="char:EOLhyphen"/>pertarceludit.</hi> Drunkenneſſe Melancholy.</note> In <hi>Melancholly,</hi> and phreneticall diſtractions. Their <hi>idle ſpeeches</hi> have made known their <hi>idle courſes,</hi> and thoſe ſins which they have been here<g ref="char:EOLhyphen"/>tofore guilty of in times of health. Yea ſometimes alſo in terrour, and trouble of Conſcience, and the diſquietneſſe of an afflicted ſpirit; here their ſin it will find them out <hi>indeed.</hi> Thoſe who have thought it ſhould never have been known, <note place="margin">Terrors of Conſcience.</note> be<g ref="char:EOLhyphen"/>cauſe no-body knew of it, but <hi>themſelves,</hi> theſe themſelves, when they have been upon this rack, have been glad for <hi>eaſe</hi> it ſelf to diſcover it. <hi>Me, me adſum qui feci, &amp;c.</hi> Lo here I am, it is I, which am thus or thus guilty. This is that, I ſay, which many perſons have been brought unto. There's no ſuch blab in the world, as a terrified, and wounded Conſcience; as a ſoul awaken'd by God to the ſight of it ſelf; this it will be ſure to tell tales; it will out with all that's in it, rip up every ſeame, and ſearch into every corner, and pluck up every ſtone in the heart; and glad that it can find any peace or relaxation upon ſuch a condition; Thus occaſionally from men <hi>themſelves.</hi>
+            </p>
+            <p>Secondly, <note place="margin">2. From others,</note> Occaſionally alſo from others; By their jealouſies and probable conjectures, which have put them upon ſuch and ſuch inquiries. And by their confeſſions, when partners in the ſin; ſometimes in a way of ſelf-love, for their own freedome;
+<pb n="21" facs="tcp:112328:13"/>ſom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of anger for their own revenge; ſometimes <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for their own clearing, and the diſcharge of their <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> like wayes from <hi>other men.</hi>
+            </p>
+            <p>Laſtly, <note place="margin">3.</note> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you alſo occaſionally from the <hi>other creatures.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and unexpected wayes to bring ſin and ſinners to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>ſtone out of the wall</hi> to cry, <note place="margin">Habbac. 2.11.</note> and there's the <hi>be <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> to anſwer it. <note place="margin">Eccleſ. 10.20.</note> There's <hi>the bird of the aire</hi> to carry the vo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that <hi>which hath wings</hi> to tell the matter. All which expreſions ſerve to this purpoſe, to ſignifie what ſtrange wayes there are for the diſcovery, and revealing of ſin beyond all expectation.</p>
+            <p>Thus will ſin find men out here in this life; <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ins Diſcovery a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th day of judgement.</note> But now if by chance it ſhould be concealed and kept cloſe <hi>here,</hi> yet we know it will be manifeſted <hi>hereafter. Every mans ſin ſhall be made manifeſt, for the Day will declare it.</hi> 1 Cor. 3.13 the <hi>Day of Judgement,</hi> that is emphatically called the <hi>Day of Diſcovery</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Rom 2.5. Rom. 2.16. 1 Cor. 4 5.</note> In which day all mens actions ſhall be ſought into, and found out. <hi>When God ſhall judge the ſecrets of men by Jeſus Chriſt, according to the Goſpel: Bring to light the bidden things of darkneſſe, and make manifeſt the counſels of the heart,</hi> as the Apoſtle ſpeaks. But this is a point which I can<g ref="char:EOLhyphen"/>not now inſiſt, and ſtand upon.</p>
+            <p>Well. To cloſe up this Head with an Uſe. <note place="margin">The Applica<g ref="char:EOLhyphen"/>tion.</note> Seeing theſe things are ſo indeed; that ſin is of ſo diſcovering a nature, as we have heard it to be; Here's that which may meet then with all <hi>reſer<g ref="char:EOLhyphen"/>ved</hi> and cloſe kind of ſinners, who give themſelves liberty in any ſecret way of wickedneſſe whatſoever, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Prov. 7.10. <hi>Of a reſerved heart.</hi>
+               </note> upon this ground and incouragement, as that their ſins ſhall not be known. There are abundance of theſe in the world, <hi>ſlye</hi> and hypocriticall perſons, that labour to carry all things in the clouds, and deep contri<g ref="char:EOLhyphen"/>vances; that think to dance in nets (as we ſay) and not to be ſeen, and yet very deſperate wretches; cloſe drunkards, and cloſe adulterers, and cloſe cheaters, and deceivers of others; It may be ſometimes cover their villany with ſome outward ſhew of <hi>piety,</hi> and profeſſion of Religion: well let them look to it whoſo<g ref="char:EOLhyphen"/>ever are guilty of it. If I ſhould by chance ſpeak to any at this time in this preſent Auditory (as it is hard in ſo great a number not to be ſome) I ſay if I ſhould now ſpeak to any ſuch; I might ſay to them in the words of <hi>Moſes</hi> to theſe Tribes, <hi>Beſure your ſin will find you out.</hi> Find you out to <hi>your ſelves,</hi> and find you out to
+<pb n="22" facs="tcp:112328:14"/>
+               <hi>others,</hi> and diſcover you to the <hi>world.</hi> It's impoſſible that any wilfull ſinner ſhould abſolutely, and totally lye hid. No, but he will at laſt come out quaking and trembling, <note place="margin">Mark. 5.33.</note> like the woman with the bloody iſſue to Chriſt; <hi>Who came and fell down before him, and told him all the truth.</hi> Thus ſhall it be with ſuch kind of per<g ref="char:EOLhyphen"/>ſons as theſe are; as the Apoſtle ſpeaks of ſome ſeducers. 2 <hi>Tim.</hi> 3.9. <hi>Their folly ſhall be manifeſt to all men, as theirs alſo was.</hi> And ſo much of the firſt head, <hi>viz.</hi> ſin in its <hi>diſcovering</hi> nature.</p>
+            <p>The Second is ſin in its <hi>revengefull</hi> and <hi>Virdicative nature;</hi> 
+               <note place="margin">The ſecond Explication. Sin in its vin<g ref="char:EOLhyphen"/>dicative nature</note> there are ſome impudent and hard-hearted ſinners, which it may be do not care though ſin find them out in the firſt ſenſe. Let at be known, its all one to them, they do not regard it they bluſh not to commit their lewd practiſes even in the ſight of the Sun it ſelf. <note place="margin">Iſa. 3.9.</note> They do not hide their ſin as <hi>Adam,</hi> but <hi>declare</hi> it as <hi>Sodom;</hi> and ſometimes <hi>glory</hi> in ſo doing <note n="*" place="margin">
+                  <hi>Nondum ti<g ref="char:EOLhyphen"/>mes peccatum, time quo pre<g ref="char:EOLhyphen"/>ducit peccatum: Dulce <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt pecca<g ref="char:EOLhyphen"/>tum, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ara eſt mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi> Aug hom. 42.</note>. Therefore here's a ſecond thing which ſeems to be intimated to us in this expreſſion; And that is the heavy <hi>effect</hi> of ſin, in its juſt <hi>puniſhment,</hi> and revenge. Theſe words are to be taken <hi>effective, Your ſin will find you out;</hi> that is. God will <hi>meet with you</hi> for your ſin, and give you the juſt re<g ref="char:EOLhyphen"/>compence of it, ſo that if <hi>ſhame</hi> does not work upon you, <hi>ſmart</hi> may. This the Scripture is clear for in every page. <hi>That though hand joyn in hand, yet the wicked ſhall not go unpuniſhed.</hi> Prov. 16.5. <hi>And that evill ſhall hunt the wicked to overthrow him.</hi> Pſal. 140.11. And <hi>that the ſinner ſhall be recompenced on the earth.</hi> Pro. 11.31. &amp;c.</p>
+            <p>Now this revengefulneſſe of ſin does vent and diſcover it ſelf in divers particulars. <note place="margin">Divers wayes.</note> Firſt, <note place="margin">I. In the propor<g ref="char:EOLhyphen"/>tion of the pu<g ref="char:EOLhyphen"/>niſhment to the offence.</note> in the proportion of the puniſhment to the nature of the offence. A mans ſin may be ſaid to find him cut, foraſmuch as God does oftentimes puniſh it with ſome af<g ref="char:EOLhyphen"/>fliction anſwerable to it ſelf. God meets with men in their <hi>own wayes,</hi> and ſo orders his dealings towards them, as that they may read their miſcarriage in their correction <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Preco<g ref="char:EOLhyphen"/>pius in Iſaiam.</hi>
+               </note>. Thus he did with <hi>Adonthezek, Judg.</hi> 1.7. <hi>As I have done to others, ſo God hath done to me.</hi> Thus he did with <hi>Ahab,</hi> 1 <hi>King.</hi> 21.23. <hi>Him that dyeth of Ahab in the City the dogs ſhall eat, &amp;c.</hi> anſwerable to his carriage to <hi>Nab th.</hi> Thus he did with <hi>Agag,</hi> 1 <hi>Sam.</hi> 15.22. <hi>As thy ſword hath made women childleſſe. ſo ſhall thy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ther be childleſſe among women.</hi> And thus he does likewiſe with many others beſides. He ſutes the puniſhment to the ſin. Where the ſin is <hi>pride,</hi> the puniſhment is uſually <hi>aba, ement;</hi> where the ſin is <hi>exceſſe,</hi> the puniſhment is
+<pb n="23" facs="tcp:112328:14"/>many times <hi>want;</hi> where the ſin is too much <hi>fondneſſe</hi> of any comfort, the puniſhment is for the moſt part <hi>deprivation,</hi> or elſe the turning of that comfort into a <hi>croſſe.</hi> As to inſtance a little further, <hi>David</hi> he is proud of his <hi>people,</hi> 
+               <note place="margin">2 Sam. 24 15.</note> and in a bravado will have them to be numbred; God puniſhes him by <hi>leſſening</hi> their number, in ſending a peſtilence to conſume them. <hi>Hezekiah,</hi> 
+               <note place="margin">Iſa. 39.6.</note> he is proud of his <hi>Treaſures,</hi> aud boaſts of them to the Embaſſa<g ref="char:EOLhyphen"/>dours of Babel; God <hi>takes away</hi> his treaſures from him, and all that was layd up in his houſe. <hi>Abſolom</hi> he is proud of his <hi>haire,</hi> 
+               <note place="margin">2 Sam. 8.9.</note> which he nouriſhes as his glory and Crown: God makes it an halter to hang him, and thereby expoſes him to reproach. The Daughters of Sion go haughty and mincing as they go, <note place="margin">Iſa. 3.24.</note> and are proud of their rich attire, God takes away their ornaments from them, and gives them <hi>burning</hi> inſtead of <hi>beauty.</hi>
+            </p>
+            <p>Secondly, <note place="margin">II. In puniſhment miſtaken.</note> This revengefulneſſe of ſin is ſeen in <hi>Puniſhment mi<g ref="char:EOLhyphen"/>ſtaken,</hi> and it may be (in regard of ſuch a fact) <hi>unſeaſonably</hi> in<g ref="char:EOLhyphen"/>flicted. There's many one, who is wrongfully puniſht and cen<g ref="char:EOLhyphen"/>ſured it may chance from <hi>man;</hi> who yet from <hi>God</hi> is moſt righte<g ref="char:EOLhyphen"/>ouſly dealt with. There's ſome guilt or other ſticks by them which the world is not acquainted withall, and now it ſhall be occaſionally puniſht. The Lord does in this caſe with them, as in <hi>Solomons</hi> dealing with <hi>Shimei;</hi> He puniſhes <hi>one</hi> fact in <hi>another. Shimei</hi> had contrary to his Covenant gone beyond the bounds, which were ſet him, and whereas he was confined to <hi>Jeruſalem,</hi> he runs further to <hi>Gath;</hi> This was a buſineſſe which in it ſelf we may conceive had no great matter in it, you but under the pu<g ref="char:EOLhyphen"/>niſhment of this miſcarriage, is cenſured his inſolency againſt <hi>David.</hi> God does not alwayes ſo punctually ſtand upon it, as to puniſh ſuch a ſin immediately with a puniſhment proper to the offence, he will puniſh it now and then with a puniſhment it may be miſ-placed, and miſ-taken, and wrongfully impoſed; or if not ſo, yet at leaſt not intended in particular againſt ſuch a ſin.</p>
+            <p>This it may very well ſatisfie many men, even in their unjuſt ſufferings, at leaſt in regard of God; it may juſtifie <hi>Him</hi> in he proceedings againſt them; that he does no other with them then <hi>right</hi> when he ſuffers ſuch evils to befall them, becauſe himſelf has a quarrel againſt them for ſome other misbehavi<g ref="char:EOLhyphen"/>our beſides, which he takes notice of in them, either the neglect
+<pb n="24" facs="tcp:112328:15"/>of ſome opportunities of doing good, or the doing of ſomewhat which is contrary and amiſie; for which cauſe it is ſafe for us in ſuch caſes to ſearch our Conſciences to the bottom, and ra<g ref="char:EOLhyphen"/>ther to let out our indignation againſt our <hi>own ſins,</hi> for which we juſtly ſuffer from <hi>God;</hi> then too much to plod upon our in<g ref="char:EOLhyphen"/>juries, wherein we ſuffer unjuſtly from <hi>men</hi> Thou haſt had ſome ſecret evill courſe it may be, which thou haſt not yet repented of, and though the Lord has forborn thee in <hi>one particular,</hi> yet he will meet with thee in <hi>another way,</hi> as the <hi>Barbarians</hi> reaſoned about <hi>Paul,</hi> 
+               <note place="margin">Act. 28.4.</note> when they ſaw the Viper hanging upon his hand: <hi>No doubt this is a murtherer, a hom though he hath eſcaped the Sea, yet vengeance ſuffereth not to live.</hi> This was in regard of <hi>Paul</hi> at pre<g ref="char:EOLhyphen"/>ſent, but <hi>fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſly</hi> concluded, (and to by the way it may be ſome<g ref="char:EOLhyphen"/>times of <hi>other</hi> men, which therefore we muſt be cautelous how we apply to particular perſons) but yet there was this generall truth in it, which it ſeems theſe Heathen were ſenſible of; <hi>Gods puniſhing of ſin by exchange;</hi> Oh tis a ſweet thing to keep in good termes with God, and to have nothing lye upon our Conſci<g ref="char:EOLhyphen"/>ences which may expoſe us to his wrath and judgement, at ſuch a time, when we are leaſt aware.</p>
+            <p>Thirdly, <note place="margin">III. In the puniſh<g ref="char:EOLhyphen"/>ment of ſins committed long ago.</note> in the puniſhment of ſins, which were long ago com<g ref="char:EOLhyphen"/>mitted, we uſe to ſay, <hi>Nullum tempus occurrit Regi.</hi> It holds true in the King of all the world; Forbearance with him is no acquit<g ref="char:EOLhyphen"/>tance. Nay the longer he has forborn, ſo much the worſe <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Chryſoſt.</hi>
+               </note>; it be<g ref="char:EOLhyphen"/>ing the greateſt puniſhment, as yet not to be puniſhed. Spraines which are got in youth, will be felt in old age, to purpoſe. And ſo alſo will <hi>ſins;</hi> they will be ſure at laſt to pinch, and finde men out; find men out in their <hi>duties,</hi> to hinder the performance of <hi>them;</hi> and find them out in their <hi>prayers</hi> to obſtruct the ſucceſſe of <hi>them;</hi> and find them out in their <hi>afflictions,</hi> to make <hi>them</hi> ſo much the more tedious, and to put a ſting and venome into them.</p>
+            <p>Fourthly, <note place="margin">IV. In the puniſh<g ref="char:EOLhyphen"/>ment of puſte<g ref="char:EOLhyphen"/>rity.</note> ſin may be ſaid thus to find men out, in that eſca<g ref="char:EOLhyphen"/>ping <hi>themſelves,</hi> it many times fals upon their <hi>iſſue</hi> and poſterity after them. Following generations ſhall bewail former miſcar<g ref="char:EOLhyphen"/>riages; and God viſits the ſins of the parents upon the children in ſucceeding times. God will be ſure to have that which is his due, and arear one way or other; either in the <hi>perſon,</hi> or elſe in the <hi>ſucceſſion,</hi> if the <hi>guilt</hi> be not firſt taken off. And therefore the
+<pb n="25" facs="tcp:112328:15"/>Church very ſeaſonably prays (as ſome Interpreters expound the words) <hi>Pſal.</hi> 79.8. <hi>Oh remember not againſt us the iniquities of thoſe which have been before us. Gnavonoth riſhonim.</hi>] <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Sin will find a man out in his poſterity; And thus we have ſeen this Revenge<g ref="char:EOLhyphen"/>fulneſſe of ſin in the <hi>Generall wayes</hi> wherein it vents it ſelf.</p>
+            <p>Now further, for the particular means of Accompliſhment; <note place="margin">The particular means.</note> theſe are alſo divers and various. Firſt, <note place="margin">I. By the hand of Juſtice.</note> by the <hi>Hand of Juſtice</hi> in the Sword of the <hi>Publique Magiſtrate:</hi> The Magiſtrate is ſaid <hi>not to bear the Sword in vain, to be a terror to evill works; to be the Mi<g ref="char:EOLhyphen"/>niſter of God,</hi> 
+               <note place="margin">Rom. 13.3, 4.</note> 
+               <hi>a Revenger to execute his wrath upon him that doth evill,</hi> &amp;c. To ſhew both <hi>him</hi> what is his <hi>office;</hi> and <hi>others,</hi> what to look for from him. In thoſe Kingdoms, and Cities, and Com<g ref="char:EOLhyphen"/>mon-wealths, where Juſtice flouriſhes, and the execution of good, and wholſome Laws is in any force, ſin will be ſure to find men out in this regard.</p>
+            <p>Secondly, <note place="margin">II. By the hand of violence.</note> By the <hi>Hand of Violence,</hi> in the ſword of <hi>the Common Enemy.</hi> Thoſe which ſcape the executions of <hi>peace,</hi> they meet ſometimes with the puniſhments of <hi>warre,</hi> and common inva<g ref="char:EOLhyphen"/>ſion; And the <hi>Souldier</hi> here does that, (though it may be upon other principles) which the <hi>Magiſtrate</hi> ſhould have done afore him. There's many a one has been a <hi>priſoner of warre,</hi> which ſhould have been a priſoner of <hi>Common-juſtice.</hi> Many one has been <hi>plundred,</hi> who ſhould have been <hi>confiſcated;</hi> And many an one has loſt his life by a <hi>Bullet,</hi> which it may be, if he had had his due, ſhould have loſt it <hi>another way.</hi> In the proſecution of theſe late bloody warres amongſt our ſelves, as God has puniſht the whole Kingdom in generall for the common abominations, ſo he has met with ſome perſons in particular (no queſtion) for their particular miſcarriages; which in ſo great a number on either ſide may be well ſuppoſed without any uncharitable<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Thirdly, <note place="margin">III. By the hand of Falſhood.</note> By the <hi>Hand of Falſhood,</hi> in the ſword of <hi>ſtrange Chil<g ref="char:EOLhyphen"/>dren;</hi> As God meets with men by common Enemies, ſo alſo by falſe friends, whom he makes ſometimes Inſtruments of Juſtice. As <hi>Benhadad</hi> ſlain by <hi>Hazael; Sennacherib</hi> by his own two ſons; <hi>Iſhboſheth</hi> by his ſervants, &amp;c.</p>
+            <p>Fourthly, <note place="margin">IV. By the hand of Deſpair.</note> By the <hi>Hand of Fury, and Deſpair,</hi> in the ſword of <hi>Men themſelves</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then ſin ſhall not find ſome men out, God will make it to find them out now and then even by their own
+<pb n="26" facs="tcp:112328:16"/>wicked hands. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. As <hi>Saul,</hi> and <hi>Achitophel,</hi> and <hi>Judas,</hi> and ſuch as theſe; ſo fearfull a thing is it for any to take liberty in any ſinfull courſe, upon hope of eſcaping puniſhment. Though they might be ſafe from <hi>others,</hi> yet they are not ſure to be ſafe from <hi>themſelves</hi> And this for the Means of Accompliſhment.</p>
+            <p>Now further yet for the Deſignation of the perſons; <note place="margin">The Deſigna<g ref="char:EOLhyphen"/>tion of the perſons.</note> It is ſaid here in the Text, <hi>Your ſin will find you out.</hi> You? Who's this <hi>you?</hi> Surely, if we take it <hi>hiſtorically,</hi> it is no more but <hi>Reu'en,</hi> and <hi>Gad,</hi> the two Tribes which are here mentioned in the Chapter; But if moreover we take it <hi>morally</hi> (as indeed we ought to take it) ſo it reaches to <hi>many more,</hi> even to all ſinners whatſoever; And that under All the Priviledges and Qualifications which may ſeem to exempt them, and to make for the diſcharge of them; As briefly theſe Firſt, you, though never ſo <hi>Great.</hi> The ſin of Noble<g ref="char:EOLhyphen"/>men and Princes. Secondly, you, though never <hi>ſo wiſe.</hi> The ſin of Stateſmen, and Politicians. Thirdly, you, though never ſo <hi>good;</hi> the ſin of godly men and Saints. Fourthly, you, though never <hi>ſo many.</hi> The ſin of an whole Land, and Nation. You in All theſe acceptions will ſin be ſure to find out.</p>
+            <p>Firſt. <note place="margin">I. Great men.</note> You, though never ſo <hi>Great.</hi> The ſin of Noblemen and Princes. I do not come hither (Right Honourable) in a cynicall humour to reproach, or in the leaſt manner to detract from out<g ref="char:EOLhyphen"/>ward greatneſſe; whether greatneſſe of <hi>Birth,</hi> and Parentage; or greatnes of <hi>Authority,</hi> and place; I <hi>honour</hi> them, and eſteeme them, as I ought. Neither do I come hither to deny or caſt a Veyl upon the Graces and Vertues which are in divers great &amp; Honorable perſons; I acknowledge them, and rejoyce in them; That there are thoſe <hi>in this number</hi> which are a great ornament to Religion, which are a great bleſſing to the Kingdom, which are a great incouragement of godlineſſe in others of inferiour condition; But yet with all give me leave to adde this as <hi>a Miniſter of Chriſt,</hi> that if there be any which are not <hi>thus,</hi> but rather the quite <hi>contrary</hi> (as I would with all my heart, it were uncharita<g ref="char:EOLhyphen"/>ble once to ſuppoſe) their <hi>greatneſſe</hi> can be no ſhelter to their <hi>wickedneſſe.</hi> Sin will find us out though never <hi>ſo great;</hi> under a coat of <hi>Velvet,</hi> as well as under a garment of <hi>Ragges;</hi> under <hi>Tiſſue,</hi> as well as under <hi>ſackcloth.</hi> Kings, and Princes, and Nobles, and all the Great ones, and Honourable of the earth, their ſin without repentance will be ſure to fall heavy upon them, as well
+<pb n="27" facs="tcp:112328:16"/>as on any <hi>other.</hi> There's but one way to heaven both for great and meaner perſons. And the ſame wayes, and means of ſalva<g ref="char:EOLhyphen"/>tion, which are neceſſary for either. Ye ſee that <hi>Nature</hi> makes no difference of you; and why ſhould ye expect it from <hi>Grace?</hi> If ye be ſick, it is the ſame Phyſick muſt cure you: if you be wounded, it is the ſame Balſam muſt heal you, which muſt alſo other men; <hi>you</hi> muſt be purged, and blooded, and lanced, and ſcarified, and bliſter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as occaſion ſerves, as well as thoſe of meaner condition. And is it not ſo in ſpirituals, as well as in corporals? Yes out of all queſtion; that ſo you may the better entertain theſe miniſteriall awakenings. For though ye may be above the <hi>Preacher,</hi> yet ye are not above the <hi>Ordinance;</hi> and though the <hi>ſpeaker</hi> be <hi>inferior</hi> to you, yet the <hi>Word</hi> has a <hi>command</hi> over you. Alas (my Lords) what do we ſpeak of greatneſſe, when we think of the <hi>Great God,</hi> 
+               <note place="margin">2 King. 10.4.</note> and that Majeſty which is in <hi>Him,</hi> who if he do but let a ſparkle of his wrath fall upon the conſcience, the greateſt that are cannot ſubſiſt or hold up their heads. <hi>Two KINGS could not ſtand before him,</hi> as was once ſaid of <hi>Jehu, how then ſhall We ſtand?</hi> Oh let <hi>Great men</hi> ſtand in awe of this <hi>Great God;</hi> let Great men take heed of Great <hi>ſins;</hi> and yea of <hi>little</hi> ones too, which in <hi>them</hi> are greater then in others; and ſo are eaſier found out; <note n="*" place="margin">
+                  <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>honoratior eſt perſona pec<g ref="char:EOLhyphen"/>cantis, peccati qu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> major invidia; ubi ſublimior eſt prerogativa, major eſt culpa.</hi> Salvian.</note> 
+               <hi>you, though never ſo Great.</hi>
+            </p>
+            <p>Secondly, <note place="margin">2. Wife men. Eccleſ. 7.12.</note> you, though never ſo <hi>wiſe;</hi> The ſin of Stateſmen and Politicians. <hi>Wiſdome</hi> (ſayes the Preacher) <hi>is a defence;</hi> and ſo indeed it is. It keeps off many an evill, which might fall ei<g ref="char:EOLhyphen"/>ther upon a State, or upon a perſon. But it is ſtill wiſdome in a right and good way. Where there is not <hi>Piety</hi> as well as <hi>Policy,</hi> there can be no abſolute ſafetie. <note place="margin">Prov. 21.30.</note> 
+               <hi>There's no wiſdome, nor counſell, nor under ſtanding againſt the Lord.</hi> Men may uſe all the tricks that may be to ſhift themſelves from the ſearchings of ſin, <note place="margin">2 Sam. 16.23.</note> but it will at laſt for all this find them out. <hi>Achitophel</hi> was a very wiſe man, a great and deep Politician; His counſell in thoſe dayes was accounted as the oracle of God But yet for all that he pro<g ref="char:EOLhyphen"/>ved in concluſion but the <hi>Brother of a fool,</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> as his <hi>name</hi> it ſelf ſig<g ref="char:EOLhyphen"/>nifies; and his ſin, it found him out for all his wit. He is wiſe in<g ref="char:EOLhyphen"/>deed that's wiſe for <hi>himſelf;</hi> and he is truly wiſe for <hi>himſelf,</hi> that's wiſe for his <hi>ſoul.</hi> He that's not wiſe for <hi>eternity,</hi> and ſalvation, and the things of God, is a fool, and a fool in grain in the midſt of his greateſt wiſdome. God delights to confound proud wits
+<pb n="28" facs="tcp:112328:17"/>that ſet themſelves againſt him in their deep projects and de<g ref="char:EOLhyphen"/>ſignes; <note place="margin">Iob 12.17.</note> he diſappoints the devices of the crafty, and brings to nothing the underſtanding of the prudent: <hi>He leads away Coun<g ref="char:EOLhyphen"/>ſellors ſpoyled, and makes the Judges fools.</hi> So unable is <hi>Humane Wiſ<g ref="char:EOLhyphen"/>dome</hi> to keep men off from <hi>His</hi> wrath. <hi>You, though never ſo wiſe.</hi>
+            </p>
+            <p>Thirdly, <note place="margin">3. Good men.</note> you though never ſo <hi>good.</hi> The ſin of <hi>Holy men</hi> and Saints. God will not ſpare ſin in his <hi>deareſt ſervants;</hi> but it ſhall be ſure to find <hi>them</hi> out amongſt the reſt. There are ſome which would make us beleeve, as if <hi>God ſaw no ſin in his children.</hi> Does he not ſo? Yes, I warrant you, and to purpoſe; and ſo they ſhall <hi>feel</hi> too, to their coſt, which go about to put him to the tryall; It is not ſafe to make too bold with God, and to try concluſions with <hi>Him;</hi> as there are too many which ſometimes do, who venture very deſperately in this regard; falling now and then upon ſuch wayes as are not onely matter of <hi>quarrell,</hi> and capti<g ref="char:EOLhyphen"/>ouſnes to thoſe which are <hi>naught,</hi> and that <hi>watch</hi> an opportunity for their ſlipping: but which are alſo matter of <hi>ſcandall,</hi> and juſt exception to thoſe which are <hi>good,</hi> and that would fain <hi>cover their infirmities.</hi> Which do not onely provoke their <hi>Enemies,</hi> but offend their <hi>Brethren;</hi> And not onely give occaſion to the <hi>Ad<g ref="char:EOLhyphen"/>verſaries of the Lord</hi> to blaſpheme, and to <hi>rail</hi> at them in publick, but alſo give occaſion to the <hi>people of God</hi> to mourn, and to weep for them <hi>in ſecret;</hi> Which <hi>turn the grace of God into wantonneſſe,</hi> per<g ref="char:EOLhyphen"/>vert their ſucceſſe in imployments, and abuſe that intereſt which they have in the hearts and good opinion of thoſe which are faithfull; both to the ſpreading, and alſo juſtifying of their own unſatisfactory courſes. Well, let all ſuch take heed: their ſins will at laſt find them out. And they ſhall know and ſee with a witneſſe; that the better they deſired to be <hi>thought,</hi> the better it has become them <hi>to be;</hi> 
+               <note place="margin">* <hi>Fx boe pſo deteriores ſu<g ref="char:EOLhyphen"/>mus, ſi melo<g ref="char:EOLhyphen"/>res non ſumus, qui melores eſſe deb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mus. Cruminoſior en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m culpa eſt, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> boneſtior ſtatus,</hi> Salvian.</note> that goodneſſe is no priviledge to ſin. And that the better they are for their principles, the more ſhame not to live by them. God having deſerved better from them, and beſtowed upon them more opportunities, and incouragements then others partake of. The <hi>goodneſſe of the perſon</hi> does not juſtifie the <hi>badneſſe of the action;</hi> But the badneſſe of the action may give occaſion to ſuſpect the perſon. <hi>You though never ſo good.</hi>
+            </p>
+            <p>Fourthly, <note place="margin">4. Many men.</note> you though never ſo many: The ſin of an whole Land, and Nation. <hi>Thus ſaith the Lord, though they be quiet, and like<g ref="char:EOLhyphen"/>wiſe
+<pb n="29" facs="tcp:112328:17"/>many;</hi> yet thus ſhall they be cut down when he paſſeth through. <hi>Nahum</hi> 1.12. And <hi>Job</hi> 34.29. <hi>When He gives quietneſſe, who then can make trouble? And when He hides his face, who then can behold him, whether it be done againſt a NATION, or againſt a MAN onely?</hi> It is all one with God to puniſh the one, as the other; and it has a like eaſineſſe in it. <hi>He increaſes the Nations, and deſtroys them; He inlarges the Nations, and ſtraitens them again.</hi> Job 12.23. We find how God has for ſin deſtroyed <hi>the whole world,</hi> and not ca<g ref="char:EOLhyphen"/>red to ſpare <hi>that,</hi> 2 <hi>Pet.</hi> 2.5. <hi>Righteouſneſſe exalts a Nation, but ſin is a reproach to any people. Prov.</hi> 14.34. To any people <hi>leummim.</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> To people or Nations in generall, and indefinitely, let them be what they will be.</p>
+            <p>It is true of All People, and it is true of All ſin; <note place="margin">The ſins which find out a Na<g ref="char:EOLhyphen"/>tion.</note> but yet of ſome ſins more eſpecially which the Scripture points out unto us, and which I ſhall briefly inſtance in.</p>
+            <p>Firſt, <note place="margin">I. Murther and Blood.</note> the ſin of murther and blood. That's a ſearching and a crying ſin, where ever it lyes. It's one of thoſe ſins for which a Land principally mourns. <hi>Hoſ.</hi> 4.2. <hi>They break out, and blood touch<g ref="char:EOLhyphen"/>eth blood.</hi> And what then? <hi>Therefore ſhall the Land mourn, and every one that dwels therein.</hi> v. 3. Blood, it is ſuch a ſin as will have vent, where ever it is; and that Land cannot be innocent, which is any way guilty of it; If <hi>this</hi> do but lye at the bottom, there can be no perfect peace till it be removed, and taken away; like a Blood-hound that follows the ſent, and never leaves till it hath found out the thing. This a Land may be guilty of, not onely by <hi>immediate commiſſion,</hi> when it lyes under ſome bloody <hi>Act;</hi> but alſo <hi>by participation</hi> either by <hi>concurrence,</hi> or elſe by <hi>connivence.</hi> That Law which God gave to <hi>Noah</hi> is peremptory and indiſ<g ref="char:EOLhyphen"/>penſable. <hi>Gen.</hi> 9.6. <hi>Whoſo ſheddeth mans blood, by man ſhall his blood be ſhed.</hi> And this is not onely a <hi>prediction</hi> as ſignifying what <hi>ſhall</hi> be; but it is likewiſe an <hi>Injunction,</hi> as ſignifying what <hi>ought</hi> to be, and what God Himſelf expects <hi>ſhould</hi> be; as appears by the words before in the 5.<hi>v.</hi> of the ſame Chap. <hi>Surely your blood of your lives will I require,</hi> at the hand of every <hi>Beaſt</hi> will I require it; <hi>and at the hand of Man. At the hand of every mans Brother will I require the life of man.</hi> Obſerve here two expreſſions; <hi>At the hand of man.</hi> And, <hi>at the hand of every mans brother.</hi> At the hand of <hi>man,</hi> as the <hi>principall:</hi> And at the hand of every mans <hi>brother</hi> as the <hi>ac<g ref="char:EOLhyphen"/>ceſſiry.</hi> That's one land-finding ſin; the ſin of Murther and Blood.</p>
+            <pb n="30" facs="tcp:112328:18"/>
+            <p>Secondly, <note place="margin">II. Injuſtice and oppreſſion.</note> Injuſtice and oppreſſion. <hi>Wo be to her that is filthy and polluted, to the oppreſſing City;</hi> Zephan. 3.1. And <hi>Iſa.</hi> 3.14, 15. <hi>The Lord will enter into judgement with the Ancients of his people, and the Princes thereof,</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> Why? <hi>For ye have eaten up the Vineyard; the ſpoyl of the poore is in your houſes,</hi> &amp;c. And <hi>Pſal.</hi> 14.4. <hi>Have the workers of ini<g ref="char:EOLhyphen"/>quity <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>knowledge, which eat up my people as they e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ad?</hi> This op<g ref="char:EOLhyphen"/>preſſion, it is a ſin which the Scripture much complains of, and ſtill notes with a tang at the end of it; and which God will be ſame to puniſh where ever he finds it. Thus <hi>Eccleſ.</hi> 5.8. <hi>If thou ſeeſt the oppreſſion of the poore, and violent perverting of Juſtice in a Province, marvell not at the matter; For he that is higher then the higheſt regards it, and there be higher then they. Marvell not at the matter;</hi> as if it were a <hi>ſtrange</hi> thing it ſhould <hi>be</hi> ſo: for it is an ordinary and common ſin, in regard of mans corruption; And then, <hi>marvell not at the matter;</hi> that it ſhould be <hi>permitted</hi> to be ſo, for the providence of God does wiſely ſuffer it for very good reaſons; He that's <hi>higher then the higheſt regards it:</hi> that is, He which is above all <hi>Civill Ma<g ref="char:EOLhyphen"/>giſtrates</hi> whatſoever, who are the higheſt upon <hi>Earth. Regards</hi> it, that is, takes notice of it, by way of <hi>ſinple obſervation, And regards</hi> it, that is, intends to <hi>puniſh</hi> it, by way of <hi>wrathfull vindication.</hi>
+            </p>
+            <p>This is a point which were very well to be conſidered, and thought of by ourſelves; whether <hi>we</hi> have not that in this kind among <hi>vs,</hi> which will find us out; whether <hi>we</hi> may not juſtly take up that complaint of the Preacher <hi>Solomon; I ſaw under the Sun the place of Judgement, that wickedneſſe was there; and the place of righteouſneſſe, that iniquity was there.</hi> Eccleſ. 3.16. What! <hi>Wicked<g ref="char:EOLhyphen"/>neſſe</hi> in the place of <hi>Judgement?</hi> And Iniquity in the place of <hi>Righteouſneſſe?</hi> Oh fearfull! Wickedneſſe is <hi>alwayes</hi> odious, and abhominable, let it be where it <hi>will</hi> be; And iniquity is never commendable, <hi>what ever</hi> place we chooſe for it. But <hi>wickedneſſe</hi> in the place of <hi>Judgement,</hi> this is horrible indeed. And iniquity in the place of <hi>righteouſneſſe,</hi> this is by no means to be indured. Sin, it's bad enough in it's <hi>center,</hi> and in that place, which is moſt proper to it, even in Hell it ſelf, and amongſt the damned crew <hi>there.</hi> But when it gets amongſt thoſe, which are <hi>good,</hi> and into thoſe places which ſhould moſt abandon it, as it were into Hea<g ref="char:EOLhyphen"/>ven it ſelf, here it is moſt intolerable; yet this is that which ſometimes it does. Thoſe which ſhould moſt <hi>releeve the oppreſſed,</hi> are ſometimes the greateſt oppreſſors: And thoſe which ſhould
+<pb n="31" facs="tcp:112328:18"/>moſt <hi>puniſh</hi> violence, are the moſt violent of all others them<g ref="char:EOLhyphen"/>ſelves. This was that which God took ſo ill at the hands of his people: <hi>Iſa.</hi> 5.7. <hi>That he looked for Judgement,</hi> but behold <hi>Oppreſ<g ref="char:EOLhyphen"/>ſion:</hi> for <hi>Righteouſneſſe,</hi> but behold <hi>a Cry.</hi> In the Hebrew Text there's a very elegant <hi>paronomaſia</hi> to ſhew the greatneſſe of the <hi>inverſion,</hi> and diſ-appointment, <hi>Le-miſhphat ve-hinneh miſpach; le-Tſedbakah, ve-hinneb Tſedhnakah.</hi> And that's the ſecond ſin; Op<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion.</p>
+            <p>The third is Hypocriſie and Diſſimulation; <note place="margin">III. Hypocriſie and Diſſimulation.</note> this is another kind of ſin, which finds out a Kingdom, <hi>Iſa.</hi> 9.17. <hi>Therefore the Lord ſhall have no Joy in their young men, neither ſhall have mercy on their fatherleſſe, and widows; for every one is an Hypocrite, and an evill doer,</hi> &amp;c. <hi>For all this his anger is not turned away, but his hand is ſtretch<g ref="char:EOLhyphen"/>ed out ſtill.</hi> So again, <hi>Iſa.</hi> 10.5, 6. <hi>Oh Aſſyrian, the rod of mine anger,</hi> &amp;c. <hi>I will ſend him againſt an Hypocriticall Nation,</hi> and <hi>againſt the People of my Wrath, will I give him a charge.</hi> Where an <hi>Hypocriticall Nation,</hi> and the people of Gods wrath are made to be terms convertible. Hypocriſie in a Nation brings the wrath of God upon it.</p>
+            <p>This runs out in divers heads. Firſt, <note place="margin">In divers kinds.</note> in the Semblances of Hu<g ref="char:EOLhyphen"/>miliation; Secondly, in the Pretences to Reformation; Thirdly, in the Falſifications of Covenant.</p>
+            <p>Firſt, in the Semblances of Humiliation. <note place="margin">I. In the ſem<g ref="char:EOLhyphen"/>blances of Hu<g ref="char:EOLhyphen"/>miliation.</note> This is ſuch a miſ<g ref="char:EOLhyphen"/>carriage, as does provoke God exceedingly againſt them, as ye may ſee by ſundry inſtances in Scripture, I can but mention them. <hi>Hoſe.</hi> 7.14. <hi>They have not cryed unto me with their heart.</hi> Iſa. 58.5. <hi>Ye faſt for ſtrife, and debate,</hi> &amp;c. Zach. 7.5. <hi>When ye faſted, ye did not faſt unto Me, &amp;c.</hi>
+            </p>
+            <p>Secondly, In pretences to Reformation: when people make as if they would reform, but intend nothing leſſe. <note place="margin">2. In pretences to Reforma<g ref="char:EOLhyphen"/>tion.</note> As thoſe in <hi>Jeremy,</hi> Cap. 42. ver. 20, 21. <hi>Ye diſſembled in your hearts, when you ſent me to the Lord your God, ſaying, Pray for us to the Lord our God; and according to all that the Lord our God ſhall ſay, and declare, that will we do.</hi> And ſo again thoſe in <hi>Ezekiel,</hi> cap 33.31. <hi>They coine as the people cometh, and with their mouth ſhew much love, but their heart runneth after their covetouſneſſe.</hi> This is that which lyes heavy upon <hi>our ſelves,</hi> our miſcarriage in this particular; If we would deal plainly and freely with God, and tell him what we are reſolv'd on (as indeed we ſhew by our practiſe) namely, to live as we liſt,
+<pb n="32" facs="tcp:112328:19"/>and to do whatſoever ſeems good in our own eyes, it may be, he would take it better at our hands; <note place="margin">Exod. 33.5.</note> 
+               <hi>If we would put off our orna<g ref="char:EOLhyphen"/>ments from us, be might know what to do unto us;</hi> but now to pretend to amendment, and repentance, and reformation of life, and yet to abide ſtill as we do, this muſt needs very deeply provoke him. For what is this but to do as Iſrael in <hi>Pſal.</hi> 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.36, 37?</p>
+            <p>Thirdly, <note place="margin">3. In the f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſifi<g ref="char:EOLhyphen"/>cations of Co<g ref="char:EOLhyphen"/>venant.</note> In the Falſifications of Covenant. This is a very great quarrell which God takes up ſometimes againſt his peo<g ref="char:EOLhyphen"/>ple: The Quarrell of his Covenant, when they deal falſly and hypocritically in <hi>this;</hi> which may be conſidered in a three-fold Explication. Firſt, <note place="margin">I. In taking it.</note> in point <hi>of taking</hi> of Covenants; when people ſhall do it onely for ſiniſter <hi>ends;</hi> ſome by, and politick reſpects; onely to advantage themſelves in ſome externall and worldly conſideration; and not out of the principles of <hi>Religion,</hi> and conſcience, and regard to God. This is that which will find them out; eſpecially in the miſſings of thoſe very ends, which they propound, and ayme at in it. There's nothing more dan<g ref="char:EOLhyphen"/>gerous in Religion, then to make that which is deſirable for it ſelf, to be no other then a means, and conducement to ſome<g ref="char:EOLhyphen"/>what elſe, which is inferior to it. As if the wayes of God were good for nothing, but onely to promote us in the world, and to ſet us forward in our ſecular affairs; when as indeed there's an intrinſecall worth, and value in them, which may intiſe us, even where we <hi>ſuffer</hi> by them. Covenants are not matters of <hi>Po<g ref="char:EOLhyphen"/>licy,</hi> but <hi>Piety,</hi> and ſo to be undertaken.</p>
+            <p>Again, <note place="margin">2. In urging it.</note> As there may be falſeneſſe in <hi>taking</hi> of Covenants, ſo there may be alſo falſeneſſe in <hi>urging</hi> them, and an Hypocriti<g ref="char:EOLhyphen"/>call <hi>ſtanding</hi> upon them. As ye ſhall have ſome, when they would promote any thing which is ſutable to their own <hi>affections. Oh we muſt keep our Covenant.</hi> Yes, and good reaſon, why ſhould ye not? But then be ſure to keep it <hi>indeed.</hi> Elſe ye do but falter with God, <note place="margin">Gal. 6.7.</note> and mock <hi>Him, who will not be mocked.</hi> There's a two<g ref="char:EOLhyphen"/>fold urging of a Covenant in an hypocriticall manner. The one is, <note place="margin">
+                  <list>
+                     <item>Partially.</item>
+                     <item>Perverſly.</item>
+                  </list>
+               </note> when it is urged <hi>partially;</hi> and the other is, when it is urged <hi>perverſly.</hi> Firſt, when it is urged partially; in <hi>ſome</hi> parts, but not in <hi>others.</hi> As for inſtance, ye ſhall have ſome, who will be for the Covenant, as it is contrary to <hi>Hereſie;</hi> Oh by all means <hi>that.</hi> But they are not for it as it is contrary to <hi>profaneneſſe. Here,</hi> they will not be ſhackled by it. Again on the other ſide, ye ſhall have
+<pb n="33" facs="tcp:112328:19"/>ſome who will be for the Covenant, as it is a renouncing of <hi>ſu<g ref="char:EOLhyphen"/>perſtition. Here,</hi> remember our Covenant. But they will not be for it, as it is a renouncing of <hi>Schiſrme: Here,</hi> it is no Covenant at all. What's this, I beſeech ye, <note n="*" place="margin">
+                  <hi>Librum Dei ut pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cis inſpices: Scripturas D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i ad hoc audi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, at facias, quod diſplicet De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Auguſt.</note> but to play and trifle with Reli<g ref="char:EOLhyphen"/>gion, as <hi>we pleaſe,</hi> and to make the ordinances of God ſubordi<g ref="char:EOLhyphen"/>nate and ſubſervient to our own looſe affections? So, ſecondly, there may be an urging of Covenants <hi>perverſly</hi> alſo; when we ſhall ſtrive to draw that out of them, which is not <hi>intended</hi> in them; make them a noſe of wax as men do alſo ſometimes with the Scriptures, <note place="margin">2 Pet. 3.16.</note> 
+               <hi>Which thoſe that are unlearned, and unſtable, wreſt to their own deſtruction.</hi>
+            </p>
+            <p>The third is falſeneſſe <hi>in Breach of Covenant;</hi> 
+               <note place="margin">3. In Breaking it.</note> which is the higheſt ſtep of all. There are ſome which take Covenants, but never <hi>think</hi> of them, and ſo take Gods Name in vain. And there are others which take Covenants, and yet wittingly break them; which is a fin of a moſt fearfull guilt alſo. And truly, it does very much depend (for the occaſion of it) upon the <hi>firſt;</hi> For thoſe that <hi>take</hi> Covenants <hi>hypocritically,</hi> will never <hi>keep</hi> them <hi>con<g ref="char:EOLhyphen"/>ſcionably.</hi> There's nothing will hold an Atheiſt faſt; not the ſo<g ref="char:EOLhyphen"/>lemneſt ingagements that can be: All the Oathes and Cove<g ref="char:EOLhyphen"/>nants, and Vows that can poſſibly be thought of, they are all nothing to him. And this is the third ſearching ſin; to wit, Hy<g ref="char:EOLhyphen"/>pocrifie, and Diſſimulation.</p>
+            <p>The Fourth is, <note place="margin">IV. Contempt of the Ordiman<g ref="char:EOLhyphen"/>ces.</note> Contempt of the Goſpel, and Ordinances, and Miniſteriall Diſpenſations. This is a ſin which will find out that people which are guilty of it. As ye may ſee by Chriſts upbraid<g ref="char:EOLhyphen"/>ing of thoſe Cities where he had ſometimes preached. <hi>Matth.</hi> 11.21. <hi>Wo unto thee Corazin, wo unto thee Bethſaida,</hi> &amp;c. It ſhall be eaſier for Sodom and Gomorrah in the day of Judgement then for thoſe places. Sodom and Gomorrah, we know what fear<g ref="char:EOLhyphen"/>full ſins were amongſt them, and what puniſhments fell upon them; But the neglect of the Goſpel, and Ordinances, ye ſee is threatned far above theſe. This might juſtly make us to trem<g ref="char:EOLhyphen"/>ble of this Land and Nation our ſelves, for our guiltineſſe in this particular. What little fruit have we brought forth an<g ref="char:EOLhyphen"/>ſwerable to the means which we have injoyed? yea how do we begin to loath and deſpiſe the heavenly Mannah which lyes about our Tents? How do we diſguſt and diſreliſh the whol<g ref="char:EOLhyphen"/>ſome Truths of Religion, and the form of ſound Doctrine, and
+<pb n="34" facs="tcp:112328:20"/>apply our ſelves to nothing almoſt but fancies and conceits of our own; <note place="margin">1 Tim 6.4.</note> 
+               <hi>whereof comes ſtrife,</hi> &amp;c. What does this portend, but the taking away of the Candleſtick from us, (if by repentance we do not prevent it) which is the Greateſt Judgement that can befall us?</p>
+            <p>And to this ſlighting and contemning of the <hi>Goſpel,</hi> 
+               <note place="margin">Slighting of the Miniſters.</note> we may joyn, which is very pertinent to it, the ſlighting of thoſe which are the Miniſters, and Meſſengers of it; Deſpiſing of their Gifts, diſhonouring of their perſons; withholding of their dues, &amp;c. This is a Point which we which are Miniſters muſt not meddle with, our mouthes are here ſtopt; when we ſpeak of them we preach our ſelves, and our own ends; This is preſently laid in our diſh, and objected to us, though the ſouls of our people be never ſo much concern'd in it. But therefore it concerns <hi>people themſelves</hi> ſo much the more to look after it; and to take heed of being guilty of it. Where the Patient forbids the Phyſician to take care of him, he had need to be the more watchfull over himſelf; <note place="margin">Ioh 5.41.</note> And ſo here. As for <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> we would have the world to know; <hi>That we receive not honour from men;</hi> neither from <hi>men</hi> do we expect our <hi>reward. Thy money periſh with thee;</hi> As <hi>Peter</hi> to <hi>Simon Magus. Act.</hi> 8.20. <hi>Keep thy giſts to thy ſelf, and give thy rewards to another;</hi> as <hi>Daniel</hi> ſaid once to <hi>Belſhazzar. Dan.</hi> 5.17. There's no true Miniſter of Chriſt but counts his <hi>work</hi> to be his greateſt Ho<g ref="char:EOLhyphen"/>nour, and ſuch as he would not exchange for what ever the world can caſt upon him; And for <hi>reward,</hi> we ſerve a Maſter that <hi>will</hi> pay us, <note place="margin">2 Chron. 36.15, 16.</note> we are ſure of <hi>that.</hi> We would not have <hi>all</hi> our wages <hi>here</hi> (wo be to them that <hi>have!</hi>) But yet <hi>this</hi> ſhall not ſerve their turns, <note place="margin">Mal. 3.9. Dout. 33.11.</note> which would keep it from us. <hi>Their ſin ſhall be ſure to find them out.</hi> Theſe are things which are not beleeved, becauſe they are not preſently felt. Well, let us go on, and mark what will be the End of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. God has time enough to puniſh this ſin, when we are dead and rotten in <hi>our Graves.</hi>
+            </p>
+            <p>A fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Land finding ſin is Licentiouſneſſe, <note place="margin">V. Licentiouſnes, and Tolerati<g ref="char:EOLhyphen"/>on of Error.</note> and want of Go<g ref="char:EOLhyphen"/>vernment, whether in Church or State; whereby the flood-gates are opened to all Error, and Hereſie, and to All vice and pro<g ref="char:EOLhyphen"/>faneneſſe. This is ſuch an Iniquity, and miſchief as God will not endure, And that becauſe it is oppoſite to his Soveraigntie, and Authority in the world, and (as much as it can, as we may ſpeak with an Holy Reverence) puts himſelf out of his place.
+<pb n="35" facs="tcp:112328:20"/>Thoſe that take away ſubordinate Government, they do by de<g ref="char:EOLhyphen"/>grees ſtrike at <hi>Supreme,</hi> which is the Government of God him<g ref="char:EOLhyphen"/>ſelf. <hi>They have not rejected Thee, but they have rejected Me.</hi> 1 <hi>Sam.</hi> 8.7. This is a ſin which will be ſure to fall heavy upon thoſe people which are guilty in this kind; yea, and that from the thing it ſelf. That which is their <hi>ſin</hi> ſhall be their <hi>puniſhment,</hi> and they ſhall at laſt be ſure to rue that liberty, which they now ſo much plead for.</p>
+            <p>Laſtly, to adde no more now: This very ſin here in the Text; <note place="margin">VI. Neglect of Aſſiſtance of the Church.</note> The neglect of Aſſiſtance of the Church againſt their Enemies is a ſin which will find a Land out; And that eſpecially by ma<g ref="char:EOLhyphen"/>king thoſe Enemies moſt grievous and burdenſome to them. But of this I have ſpoken largely in the beginning. Thus <hi>you though never ſo many.</hi> And thus much alſo of the <hi>Deſignation of the perſons; Your ſin will find YO<g ref="char:V">Ʋ</g> out.</hi>
+            </p>
+            <p>Well, ſeeing theſe things are ſo; That ſin will find out <hi>
+                  <g ref="char:V">Ʋ</g>s;</hi> 
+               <note place="margin">The Applica<g ref="char:EOLhyphen"/>tion.</note> let this be the uſe we make of it, to be carefull to find out <hi>It;</hi> and to begin with that <hi>firſt.</hi> This is the beſt and ſafeſt courſe, which can be taken by us; It being of the nature of that creature, which if it be firſt ſpy'd by us it <hi>ſpares</hi> us; but if <hi>we</hi> be firſt ſpy'd by it, it <hi>kils</hi> us. And this ſutes very well with the words of the Text, ac<g ref="char:EOLhyphen"/>cording as they ſeem to run <hi>verbatim</hi> in the Hebrew; <hi>And know your ſin which will find you out.</hi> Udegnou chatáathkem, aſher ijmtſa éthkem.] So the <hi>Arabique</hi> alſo tranſlates it.</p>
+            <p>Now there are two things which concern us in this particu<g ref="char:EOLhyphen"/>lar: Firſt, to find out <hi>whether:</hi> And ſecondly, to find out <hi>which.</hi> 
+               <note place="margin">
+                  <list>
+                     <label>To find out</label>
+                     <item>
+                        <list>
+                           <item>whether</item>
+                           <item>which.</item>
+                        </list>
+                     </item>
+                  </list>
+               </note> Firſt, to find out whether. That is, to find out the nature and condition of thoſe things which we venture upon, whether they be lawfull yea or no; To reſolve our ſelves well in <hi>that,,</hi> 
+               <note place="margin">I. Whether.</note> and not to lye in any ſin <hi>unknown.</hi> This is one way of finding out our ſin. Remember that of <hi>Solomons, Prov.</hi> 20.25. <hi>It is a ſnare for a man to devoure that which is holy; and after Vows to make inquiry.</hi> It is good for us to be ſufficiently ſatisfied, and well informed in that which we do, and not to venture upon ſin we care not <hi>how.</hi> For next to a ſin <hi>againſt knowledge,</hi> is a ſin of <hi>affected Ignorance,</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3.5.</note> yea indeed does little differ from it. There are ſome people which are <hi>willingly ignorant</hi> concerning ſuch and ſuch ſins; Be<g ref="char:EOLhyphen"/>cauſe their <hi>luſts</hi> carry them to ſuch wayes whether Ambition or Covetouſneſſe, or the like; and with all they think their <hi>Conſci<g ref="char:EOLhyphen"/>ences</hi>
+               <pb n="36" facs="tcp:112328:21"/>would rub them if they were throughly informed about them; therefore they chooſe to content themſelves with any <hi>ſlight,</hi> and eaſie inquiries, as thinking to ſalve themſelves at laſt by this ſhift, <hi>That they knew not indeed that they were ſins;</hi> Theſe are ſuch (as our Saviour ſpeaks of) which <hi>hate the light, and which love darkneſſe rather then light, becauſe their deeds are evill.</hi> 
+               <note place="margin">Ioh. 3.19.</note> Theſe are juſt like ſome kind of <hi>theeves,</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. <hi>Chryſoſt.</hi>
+               </note> which put out the <hi>candle,</hi> that they may the better ſteal in the <hi>dark.</hi> But let <hi>Vs</hi> for our parts by all means take heed of this, let us labour to <hi>find ſin out</hi> in this Ex<g ref="char:EOLhyphen"/>plication; And that becauſe there may be a great deal of dan<g ref="char:EOLhyphen"/>ger and miſchief even in <hi>a ſin unknown;</hi> Danger to an <hi>whole State,</hi> which from hence may lye open to <hi>miſcarriage,</hi> as it was once with the people at <hi>Ai</hi> about the ſin of <hi>Achan.</hi> 
+               <note place="margin">Ioſh. 7.11.</note> And Danger to a <hi>particular perſon,</hi> which from hence may lye under a <hi>curſe,</hi> and wither, and moulder away he knows not how; And eſpecially in his inward-man, which is the chiefeſt of all. As a man which has a ſervant, which is a theif, he goes backward in his eſtate, inſenſibly; ſo does a man which has a ſecret ſin in his ſoul go backward in grace; is not ſo ſerviceable, nor profitable, nor comfortable, as otherwiſe he might be <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Cor. 9.27.</note>. Hence it was that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> deſired to be kept from <hi>ſecret ſins;</hi> not onely ſuch as were ſe<g ref="char:EOLhyphen"/>cret to <hi>others,</hi> but eſpecially which were ſecret <hi>to himſelf;</hi> which is the proper meaning of that place. <hi>Pſal.</hi> 19.12. For which pur<g ref="char:EOLhyphen"/>poſe he alſo further deſires the help and aſſiſtance of <hi>God. Pſal.</hi> 139.23. <hi>Search me O God, and know my heart; try me, and know my thoughts: And ſee if there be any wicked way in me, and lead me in the way everlaſting.</hi> And thus far of ſins <hi>whether;</hi> which is the firſt thing to be found out by us.</p>
+            <p>The ſecond is of ſins <hi>which;</hi> 
+               <note place="margin">II. Which.</note> that is, what thoſe ſins be which we are moſt guilty of, of thoſe things which we are perſwaded <hi>are</hi> ſinfull. This is that which lyes upon us All: But eſpecially (to ſpeak a word in ſeaſon) upon thoſe which have the Govern<g ref="char:EOLhyphen"/>ment of Kingdoms, <note place="margin">Eſpecially Stateſmen.</note> and Common-wealths committed unto them. Theſe had need to find out ſin more eſpecially, for the ſafety and welfare of that State, which they have the ordering, and managing of.</p>
+            <p>Firſt; <note place="margin">I. Their own perſonall ſins.</note> Their own <hi>perſonall</hi> ſins; which have a very great influ<g ref="char:EOLhyphen"/>ence upon the ſtate and condition of the Common-wealth. And that in two particulars; Firſt, As a Provocation of wrath; And,
+<pb n="37" facs="tcp:112328:21"/>ſecondly, as an obſtruction of mercy.</p>
+            <p>Firſt; As a Provocation to wrath; in that God oftentimes puniſhes a Kingdom, and gives them up to ſuch wayes, and judgements, eſpecially for ſuch mens ſins. As we may ſee in Iſ<g ref="char:EOLhyphen"/>rael upon <hi>Davids</hi> miſcarriage. <note place="margin">1 Sam. 24.1.</note> Perſons of Quality and Place as they are Great Bleſſings, where they do that which they ſhould do: ſo they are the contrary, where they do that which is amiſſe: and an whole Kingdom fares the worſe for their ſakes, as pro<g ref="char:EOLhyphen"/>voking Gods wrath the more againſt it.</p>
+            <p>But Secondly; That's not all; It is not onely a Provocation of wrath, but an Obſtruction of mercy; when ſuch lye under any guilt, God <hi>defers to heal</hi> a Land for their ſakes alſo: and refuſes to make uſe of them, in the repairing of the Breaches. He will not vouchſafe to work by them, which walk in any evill way. And ſo the Land alſo ſuffers from them <hi>thus:</hi> This ſhews how far it concerns ſuch perſons to find out their ſins, not onely for the good, and ſalvation of their <hi>own ſouls,</hi> but alſo for the good and ſafety of the poore Kingdom whereunto they belong. And this for the ſearch of their own perſon all ſins.</p>
+            <p>Secondly, <note place="margin">2. The ſins of the Nation.</note> They are to find out alſo the ſins of the Kingdom. I have already adminiſtred ſome help in this performance by the hint of thoſe ſins before mentioned; All which I humbly de<g ref="char:EOLhyphen"/>ſire may be taken into ſerious conſideration. And eſpecially (which grows ſo much upon us, and which threatens ſo much evill to us) that ſin of Libertiniſme, and Toleration, which is the ring-leader to all the reſt, and involves all others with it. Oh that this ſhould ever be once mentioned amongſt us here in <hi>England,</hi> who have injoyed ſo much of the Goſpel of Truth, as we have done; Derived to us from our Godly fore-fathers, ſeal<g ref="char:EOLhyphen"/>ed to us by the Blood of the Martyrs, proſecuted with ſo many Bleſſings, and Victories, and Gracious ſucceſſes both of former and later times, to the admiration both of Enemies &amp; Friends! Is this the fruit and iſſue of all that God has done for us? And do all our overtures of Reformation come to this? Surely God cannot but take it very ill from us, that we ſhould but incline and lean hereunto; As he ſaid to <hi>David</hi> of his building of the Temple; <hi>Thou didſt well that it was in thine heart:</hi> And accordingly was well pleaſed with him. So will he ſay to us of <hi>our contrary carriage;</hi> That it is ill that it <hi>is</hi> in our heart; If ſo be it be come
+<pb n="38" facs="tcp:112328:22"/>ſo <hi>far,</hi> as I hope it is not. What? when we have ſo much appear<g ref="char:EOLhyphen"/>ed againſt <hi>Popery and Superſtition,</hi> ſhall we now begin to think of <hi>Indifferency and Toleration?</hi> Certainly; It's but a ſorry exchange of a <hi>Bad</hi> Religion for <hi>none.</hi> Although indeed it will be no <hi>ex<g ref="char:EOLhyphen"/>change,</hi> but rather a further <hi>Confirmation:</hi> Toleration of All <hi>other</hi> Errours does but ſtrengthen Popery amongſt the <hi>reſt;</hi> which will at leaſt think ſo well of it ſelf, as to come in for a <hi>childes part.</hi>
+            </p>
+            <p>We ſee, how it is ſtill with us at this preſent Day; Notwith<g ref="char:EOLhyphen"/>ſtanding all the Blood, <note place="margin">
+                  <hi>Quid quer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mur quod dare agat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſoum Deus? Mu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o nos cum D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o duriûs agimus.</hi> Salv. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.</note> which hath been hitherto ſhed in the Kingdom, yet we lye under many jealouſies, and diſtractions ſtill, in which we know not what may befall us. And is it any ſtrange matter that it ſhould be ſo in good earneſt with us, if we conſider all? Is it any wonder that We ſhould not know, how <hi>God</hi> will deal with <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> when as <hi>He</hi> does not know how <hi>we</hi> will deal with <hi>Him?</hi> (I ſpeak after the manner of men.) How muſt we not needs be ſo unſetled in regard of <hi>Peace,</hi> whiles we are unſetled in regard of <hi>Truth?</hi>
+            </p>
+            <p>Well, <note place="margin">The Conclu<g ref="char:EOLhyphen"/>ſion.</note> to draw to a Concluſion. God has now (Right Hono<g ref="char:EOLhyphen"/>rable) brought us to the cloſe of an <hi>Old Yeer:</hi> wherein we have had Great Experiences of his Goodneſſe to us. Of his Goodneſſe to the <hi>Land</hi> in Generall; And of his Goodneſſe to <hi>our ſelves</hi> in particular; To the Land in Generall, in the completing of our Victories, and ſucceſſe, and in Reducing of the Kingdom to the Power of the preſent Parliament, ſo that now we may ſing with the Pſalmiſt. <hi>Pſal.</hi> 48.12. <hi>Walk about Sion, and go round about her, tell the towers thereof; mark ye well her Bulwarks; Conſider her palaces; that ye may tell it to the Generation following: for this God is our God for ever and ever; He will be our guide even unto Death.</hi> This is a Great Mercie: And this for the Land in Generall.</p>
+            <p>And further for our ſelves in particular; God has <hi>here</hi> alſo done moſt graciouſly with us, in that he has kept us from the <hi>Devouring Peſtilence,</hi> and thoſe contagious ſickneſſes, and diſea<g ref="char:EOLhyphen"/>ſes which the City for this laſt yeer now paſt has been viſited withall. What does he expect now from us, but that we ſhould anſwerably give up our ſelves to His ſervice? And in our ſeveral opportunities be Active for His Glory; as knowing that the Greater our ſphere is of doing good, the more does he expect from us.</p>
+            <pb n="39" facs="tcp:112328:22"/>
+            <p>We have heard, how <hi>ſin will find us out;</hi> And ſo let me adde for our Comfort by proportion will <hi>Grace</hi> to. <note place="margin">2 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in 1.17, 18.</note> 
+               <hi>Oneſiphorus</hi> that found out <hi>Paul</hi> in a way of <hi>Compaſſionate viſitation,</hi> Mercy found out <hi>him</hi> in a way of <hi>anſwerable compenſation.</hi> And ſo it ſhall like<g ref="char:EOLhyphen"/>wiſe be with all others beſides: There's no man that does any Good, which ſhall go unrewarded for it; <note place="margin">Rev. 14.13.</note> 
+               <hi>But then when he reſts from his labours, his works ſhall follow him.</hi> Yea let the Good which he does be never ſo <hi>ſecret</hi> and private, yet it ſhall alſo be found out. Secret prayers, and ſecret alms, and ſecret mournings, and humiliations for ſin; <note place="margin">Matth. 6 6.</note> 
+               <hi>Thy Father that ſees in ſecret will reward thee openly.</hi> There are ſome, which can do no Great matters, except all the world take notice of them, and applaud them, and cry them up; making their Greateſt contentment to lye in their in<g ref="char:EOLhyphen"/>couragements from <hi>Men;</hi> But theſe are things which will ſoon wear off, and come to nothing; When all comes to all, this will be our Greateſt Rejoycing; The Teſtimony of a Good Conſci<g ref="char:EOLhyphen"/>ence; That in the ſenſe of our manifold Infirmities we have in<g ref="char:EOLhyphen"/>deavovred to diſcharge our Duties, and to approve our ſelves to God; who will never ſuffer any of us to be looſers by his ſervice; but in all the diſ-regards of the world will himſelf be<g ref="char:EOLhyphen"/>ſtow upon us <hi>a full reward.</hi> A Reward in our Conſciences; <note place="margin">2 Ich. v 8.</note> And a Reward in our Conditions; And a Reward in Heaven it ſelf; which is the Great Reward of all; What ever good we have done, it will ſooner or later find us out; and eſpecially then, when we have greateſt need of it; In affliction and temptation; at the houre of Death; and at the Day of Judgement; <hi>Then</hi> will Goodneſſe be Goodneſſe <hi>indeed,</hi> as well as ſin; which though we may not reſt in it, in order to merit, and carnall confidence, yet we may be very much ſatisfied from it, in order to comfort, and ſelf-reflexion; and accordingly ſhould often think of theſe things to quicken us to Duty.</p>
+            <p>And now for this enſuing New Yeer, let us be hence perſwa<g ref="char:EOLhyphen"/>ded to ſet upon it, with a purpoſe and endeavour of doing all the Good that we can, and to make amends for any former neglects. To ſerve God in our ſeverall opportunities, and to be advantagious to the Good of his Church, and that Cauſe which himſelf owns in the world; and <hi>will</hi> own. So ſhall the Lord himſelf take pleaſure in us, and delight to do us good; to bleſſe us in our perſons, and to bleſſe us in our counſels, and
+<pb n="40" facs="tcp:112328:23"/>to bleſſe us in our undertakings, and to bleſſe us in our whole Kingdom, and to continue to be a God unto us, and to all Po<g ref="char:EOLhyphen"/>ſterity after us even to ſucceeding Generations.</p>
+            <p>
+               <hi>But if ye will not do ſo, behold, ye have ſinned againſt the Lord, and be ſure your ſin will find you out.</hi>
+            </p>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="list">
+            <list>
+               <head>The Names of the Preachers before the <hi>Parliament: Anno</hi> 1646.</head>
+               <item>Mr. <hi>Whitaker</hi> 2 <hi>Chron.</hi> 26.15.</item>
+               <item>Mr. <hi>Hickes Hoſ.</hi> 5.15.</item>
+               <item>Mr. <hi>Evance</hi> 1 <hi>Sam.</hi> 2.30.</item>
+               <item>Mr. <hi>Caryll Jam.</hi> 4.8.</item>
+               <item>Mr. <hi>Vines Jam.</hi> 4.8.</item>
+               <item>Mr. <hi>Caſe Pſal.</hi> 107.30, 31.</item>
+               <item>Mr. <hi>Caryll Luk.</hi> 10.20.</item>
+               <item>Mr. <hi>Woodcock Gen.</hi> 49.23.</item>
+               <item>Mr. <hi>Jenkyn Hag.</hi> 1.2.</item>
+               <item>Mr. <hi>Goodwyn Pſal.</hi> 105.14.</item>
+               <item>Mr. <hi>A. Burges Numb.</hi> 11.12.</item>
+               <item>Mr. <hi>Caſe Exod.</hi> 5.22.</item>
+               <item>Mr. <hi>Bolton Matth.</hi> 1.21.</item>
+               <item>Mr. <hi>Cheynel Gen.</hi> 18.19.</item>
+               <item>Mr. <hi>Caryll Pſal.</hi> 118.17.</item>
+               <item>Mr. <hi>Peters Pſal.</hi> 31.23.</item>
+               <item>Mr. <hi>Nalton Jer.</hi> 13.27.</item>
+               <item>Mr. <hi>Owen Acts</hi> 16.11.</item>
+               <item>Mr. <hi>Tailor Gen.</hi> 35.1.</item>
+               <item>Mr. <hi>Heyrick Heſt.</hi> 4.16</item>
+               <item>Mr. <hi>Torſhel Deut.</hi> 16.20.</item>
+               <item>Mr. <hi>Wilkinſon Numb.</hi> 23.23.</item>
+               <item>Mr. <hi>Cradock</hi> 1 <hi>Joh.</hi> 1.3, 4.</item>
+               <item>Mr. <hi>Borroughs Matth.</hi> 5.6.</item>
+               <item>Mr. <hi>Palmer Iſa.</hi> 58.12.</item>
+               <item>Mr. <hi>Marſhall Pſal.</hi> 8.2.</item>
+               <item>Mr. <hi>Bridge Zeph.</hi> 2.3.</item>
+               <item>Mr. <hi>Maynard Phil.</hi> 3.21.</item>
+               <item>Mr. <hi>Lockier Iſa.</hi> 53.10.</item>
+               <item>Mr. <hi>Strong Ezra</hi> 9.13.</item>
+               <item>Mr. <hi>Price Ezra</hi> 9.6, 7.</item>
+               <item>Mr. <hi>Dell Hebr.</hi> 9.10.</item>
+               <item>Mr. <hi>Roberts Pſal.</hi> 51.17.</item>
+               <item>Mr. <hi>Marſhall</hi> 1 <hi>Chron.</hi> 12.32.</item>
+               <item>Mr. <hi>Nucomen Hebr.</hi> 4.13.</item>
+               <item>Mr. <hi>Goode Amos</hi> 7.5.</item>
+               <item>Mr. <hi>Horton Numb.</hi> 32.23.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
